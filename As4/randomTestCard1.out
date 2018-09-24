@@ -1,0 +1,6176 @@
+randomTestCard1.c
+SEE COVERAGE ON LINE 6056
+***Testing Smithy card***
+TEST 0: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 1: num cards in hand +2: FAILED
+	Original handCount == 330
+	New handCount == 334
+TEST 2: num cards in hand +2: FAILED
+	Original handCount == 128
+	New handCount == 132
+TEST 3: num cards in hand +2: FAILED
+	Original handCount == 250
+	New handCount == 254
+TEST 4: num cards in hand +2: FAILED
+	Original handCount == 54
+	New handCount == 58
+TEST 5: num cards in hand +2: FAILED
+	Original handCount == 441
+	New handCount == 445
+TEST 6: num cards in hand +2: FAILED
+	Original handCount == 262
+	New handCount == 266
+TEST 7: num cards in hand +2: FAILED
+	Original handCount == 428
+	New handCount == 432
+TEST 8: num cards in hand +2: FAILED
+	Original handCount == 67
+	New handCount == 71
+TEST 9: num cards in hand +2: FAILED
+	Original handCount == 62
+	New handCount == 66
+TEST 10: num cards in hand +2: FAILED
+	Original handCount == 49
+	New handCount == 53
+TEST 11: num cards in hand +2: FAILED
+	Original handCount == 357
+	New handCount == 361
+TEST 12: num cards in hand +2: FAILED
+	Original handCount == 125
+	New handCount == 129
+TEST 13: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 14: num cards in hand +2: FAILED
+	Original handCount == 50
+	New handCount == 54
+TEST 15: num cards in hand +2: FAILED
+	Original handCount == 117
+	New handCount == 121
+TEST 16: num cards in hand +2: FAILED
+	Original handCount == 459
+	New handCount == 463
+TEST 17: num cards in hand +2: FAILED
+	Original handCount == 343
+	New handCount == 347
+TEST 18: num cards in hand +2: FAILED
+	Original handCount == 191
+	New handCount == 195
+TEST 19: num cards in hand +2: FAILED
+	Original handCount == 371
+	New handCount == 375
+TEST 20: num cards in hand +2: FAILED
+	Original handCount == 45
+	New handCount == 49
+TEST 21: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 22: num cards in hand +2: FAILED
+	Original handCount == 454
+	New handCount == 458
+TEST 23: num cards in hand +2: FAILED
+	Original handCount == 280
+	New handCount == 284
+TEST 24: num cards in hand +2: FAILED
+	Original handCount == 48
+	New handCount == 52
+TEST 25: num cards in hand +2: FAILED
+	Original handCount == 50
+	New handCount == 54
+TEST 26: num cards in hand +2: FAILED
+	Original handCount == 34
+	New handCount == 38
+TEST 27: num cards in hand +2: FAILED
+	Original handCount == 97
+	New handCount == 101
+TEST 28: num cards in hand +2: FAILED
+	Original handCount == 69
+	New handCount == 73
+TEST 29: num cards in hand +2: FAILED
+	Original handCount == 278
+	New handCount == 282
+TEST 30: num cards in hand +2: FAILED
+	Original handCount == 333
+	New handCount == 337
+TEST 31: num cards in hand +2: FAILED
+	Original handCount == 76
+	New handCount == 80
+TEST 32: num cards in hand +2: FAILED
+	Original handCount == 8
+	New handCount == 12
+TEST 33: num cards in hand +2: FAILED
+	Original handCount == 190
+	New handCount == 194
+TEST 34: num cards in hand +2: FAILED
+	Original handCount == 43
+	New handCount == 47
+TEST 35: num cards in hand +2: FAILED
+	Original handCount == 365
+	New handCount == 369
+TEST 36: num cards in hand +2: FAILED
+	Original handCount == 128
+	New handCount == 132
+TEST 37: num cards in hand +2: FAILED
+	Original handCount == 36
+	New handCount == 40
+TEST 38: num cards in hand +2: FAILED
+	Original handCount == 167
+	New handCount == 171
+TEST 39: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 40: num cards in hand +2: FAILED
+	Original handCount == 79
+	New handCount == 83
+TEST 41: num cards in hand +2: FAILED
+	Original handCount == 114
+	New handCount == 118
+TEST 42: num cards in hand +2: FAILED
+	Original handCount == 302
+	New handCount == 306
+TEST 43: num cards in hand +2: FAILED
+	Original handCount == 448
+	New handCount == 452
+TEST 44: num cards in hand +2: FAILED
+	Original handCount == 278
+	New handCount == 282
+TEST 45: num cards in hand +2: FAILED
+	Original handCount == 382
+	New handCount == 386
+TEST 46: num cards in hand +2: FAILED
+	Original handCount == 306
+	New handCount == 310
+TEST 47: num cards in hand +2: FAILED
+	Original handCount == 29
+	New handCount == 33
+TEST 48: num cards in hand +2: FAILED
+	Original handCount == 199
+	New handCount == 203
+TEST 49: num cards in hand +2: FAILED
+	Original handCount == 459
+	New handCount == 463
+TEST 50: num cards in hand +2: FAILED
+	Original handCount == 193
+	New handCount == 197
+TEST 51: num cards in hand +2: FAILED
+	Original handCount == 331
+	New handCount == 335
+TEST 52: num cards in hand +2: FAILED
+	Original handCount == 264
+	New handCount == 268
+TEST 53: num cards in hand +2: FAILED
+	Original handCount == 355
+	New handCount == 359
+TEST 54: num cards in hand +2: FAILED
+	Original handCount == 463
+	New handCount == 467
+TEST 55: num cards in hand +2: FAILED
+	Original handCount == 216
+	New handCount == 220
+TEST 56: num cards in hand +2: FAILED
+	Original handCount == 302
+	New handCount == 306
+TEST 57: num cards in hand +2: FAILED
+	Original handCount == 82
+	New handCount == 86
+TEST 58: num cards in hand +2: FAILED
+	Original handCount == 90
+	New handCount == 94
+TEST 59: num cards in hand +2: FAILED
+	Original handCount == 12
+	New handCount == 16
+TEST 60: num cards in hand +2: FAILED
+	Original handCount == 370
+	New handCount == 374
+TEST 61: num cards in hand +2: FAILED
+	Original handCount == 297
+	New handCount == 301
+TEST 62: num cards in hand +2: FAILED
+	Original handCount == 450
+	New handCount == 454
+TEST 63: num cards in hand +2: FAILED
+	Original handCount == 471
+	New handCount == 475
+TEST 64: num cards in hand +2: FAILED
+	Original handCount == 406
+	New handCount == 410
+TEST 65: num cards in hand +2: FAILED
+	Original handCount == 418
+	New handCount == 422
+TEST 66: num cards in hand +2: FAILED
+	Original handCount == 15
+	New handCount == 19
+TEST 67: num cards in hand +2: FAILED
+	Original handCount == 105
+	New handCount == 109
+TEST 68: num cards in hand +2: FAILED
+	Original handCount == 80
+	New handCount == 84
+TEST 69: num cards in hand +2: FAILED
+	Original handCount == 76
+	New handCount == 80
+TEST 70: num cards in hand +2: FAILED
+	Original handCount == 255
+	New handCount == 259
+TEST 71: num cards in hand +2: FAILED
+	Original handCount == 476
+	New handCount == 480
+TEST 72: num cards in hand +2: FAILED
+	Original handCount == 476
+	New handCount == 480
+TEST 73: num cards in hand +2: FAILED
+	Original handCount == 103
+	New handCount == 107
+TEST 74: num cards in hand +2: FAILED
+	Original handCount == 30
+	New handCount == 34
+TEST 75: num cards in hand +2: FAILED
+	Original handCount == 279
+	New handCount == 283
+TEST 76: num cards in hand +2: FAILED
+	Original handCount == 403
+	New handCount == 407
+TEST 77: num cards in hand +2: FAILED
+	Original handCount == 500
+	New handCount == 1
+TEST 78: num cards in hand +2: FAILED
+	Original handCount == 131
+	New handCount == 135
+TEST 79: num cards in hand +2: FAILED
+	Original handCount == 309
+	New handCount == 313
+TEST 80: num cards in hand +2: FAILED
+	Original handCount == 23
+	New handCount == 27
+TEST 81: num cards in hand +2: FAILED
+	Original handCount == 345
+	New handCount == 349
+TEST 82: num cards in hand +2: FAILED
+	Original handCount == 70
+	New handCount == 74
+TEST 83: num cards in hand +2: FAILED
+	Original handCount == 61
+	New handCount == 65
+TEST 84: num cards in hand +2: FAILED
+	Original handCount == 51
+	New handCount == 55
+TEST 85: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 86: num cards in hand +2: FAILED
+	Original handCount == 346
+	New handCount == 350
+TEST 87: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 88: num cards in hand +2: FAILED
+	Original handCount == 213
+	New handCount == 217
+TEST 89: num cards in hand +2: FAILED
+	Original handCount == 484
+	New handCount == 488
+TEST 90: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 91: num cards in hand +2: FAILED
+	Original handCount == 144
+	New handCount == 148
+TEST 92: num cards in hand +2: FAILED
+	Original handCount == 182
+	New handCount == 186
+TEST 93: num cards in hand +2: FAILED
+	Original handCount == 478
+	New handCount == 482
+TEST 94: num cards in hand +2: FAILED
+	Original handCount == 29
+	New handCount == 33
+TEST 95: num cards in hand +2: FAILED
+	Original handCount == 155
+	New handCount == 159
+TEST 96: num cards in hand +2: FAILED
+	Original handCount == 71
+	New handCount == 75
+TEST 97: num cards in hand +2: FAILED
+	Original handCount == 172
+	New handCount == 176
+TEST 98: num cards in hand +2: FAILED
+	Original handCount == 360
+	New handCount == 364
+TEST 99: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 100: num cards in hand +2: FAILED
+	Original handCount == 467
+	New handCount == 471
+TEST 101: num cards in hand +2: FAILED
+	Original handCount == 172
+	New handCount == 176
+TEST 102: num cards in hand +2: FAILED
+	Original handCount == 202
+	New handCount == 206
+TEST 103: num cards in hand +2: FAILED
+	Original handCount == 362
+	New handCount == 366
+TEST 104: num cards in hand +2: FAILED
+	Original handCount == 400
+	New handCount == 404
+TEST 105: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 106: num cards in hand +2: FAILED
+	Original handCount == 434
+	New handCount == 438
+TEST 107: num cards in hand +2: FAILED
+	Original handCount == 53
+	New handCount == 57
+TEST 108: num cards in hand +2: FAILED
+	Original handCount == 406
+	New handCount == 410
+TEST 109: num cards in hand +2: FAILED
+	Original handCount == 328
+	New handCount == 332
+TEST 110: num cards in hand +2: FAILED
+	Original handCount == 484
+	New handCount == 488
+TEST 111: num cards in hand +2: FAILED
+	Original handCount == 199
+	New handCount == 203
+TEST 112: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 113: num cards in hand +2: FAILED
+	Original handCount == 135
+	New handCount == 139
+TEST 114: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 115: num cards in hand +2: FAILED
+	Original handCount == 417
+	New handCount == 421
+TEST 116: num cards in hand +2: FAILED
+	Original handCount == 4
+	New handCount == 8
+TEST 117: num cards in hand +2: FAILED
+	Original handCount == 188
+	New handCount == 192
+TEST 118: num cards in hand +2: FAILED
+	Original handCount == 325
+	New handCount == 329
+TEST 119: num cards in hand +2: FAILED
+	Original handCount == 340
+	New handCount == 344
+TEST 120: num cards in hand +2: FAILED
+	Original handCount == 409
+	New handCount == 413
+TEST 121: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 122: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 123: num cards in hand +2: FAILED
+	Original handCount == 345
+	New handCount == 349
+TEST 124: num cards in hand +2: FAILED
+	Original handCount == 289
+	New handCount == 293
+TEST 125: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 126: num cards in hand +2: FAILED
+	Original handCount == 348
+	New handCount == 352
+TEST 127: num cards in hand +2: FAILED
+	Original handCount == 223
+	New handCount == 227
+TEST 128: num cards in hand +2: FAILED
+	Original handCount == 224
+	New handCount == 228
+TEST 129: num cards in hand +2: FAILED
+	Original handCount == 404
+	New handCount == 408
+TEST 130: num cards in hand +2: FAILED
+	Original handCount == 466
+	New handCount == 470
+TEST 131: num cards in hand +2: FAILED
+	Original handCount == 236
+	New handCount == 240
+TEST 132: num cards in hand +2: FAILED
+	Original handCount == 174
+	New handCount == 178
+TEST 133: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 134: num cards in hand +2: FAILED
+	Original handCount == 70
+	New handCount == 74
+TEST 135: num cards in hand +2: FAILED
+	Original handCount == 434
+	New handCount == 438
+TEST 136: num cards in hand +2: FAILED
+	Original handCount == 165
+	New handCount == 169
+TEST 137: num cards in hand +2: FAILED
+	Original handCount == 422
+	New handCount == 426
+TEST 138: num cards in hand +2: FAILED
+	Original handCount == 31
+	New handCount == 35
+TEST 139: num cards in hand +2: FAILED
+	Original handCount == 447
+	New handCount == 451
+TEST 140: num cards in hand +2: FAILED
+	Original handCount == 135
+	New handCount == 139
+TEST 141: num cards in hand +2: FAILED
+	Original handCount == 160
+	New handCount == 164
+TEST 142: num cards in hand +2: FAILED
+	Original handCount == 470
+	New handCount == 474
+TEST 143: num cards in hand +2: FAILED
+	Original handCount == 167
+	New handCount == 171
+TEST 144: num cards in hand +2: FAILED
+	Original handCount == 54
+	New handCount == 58
+TEST 145: num cards in hand +2: FAILED
+	Original handCount == 243
+	New handCount == 247
+TEST 146: num cards in hand +2: FAILED
+	Original handCount == 470
+	New handCount == 474
+TEST 147: num cards in hand +2: FAILED
+	Original handCount == 247
+	New handCount == 251
+TEST 148: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 149: num cards in hand +2: FAILED
+	Original handCount == 24
+	New handCount == 28
+TEST 150: num cards in hand +2: FAILED
+	Original handCount == 298
+	New handCount == 302
+TEST 151: num cards in hand +2: FAILED
+	Original handCount == 237
+	New handCount == 241
+TEST 152: num cards in hand +2: FAILED
+	Original handCount == 179
+	New handCount == 183
+TEST 153: num cards in hand +2: FAILED
+	Original handCount == 135
+	New handCount == 139
+TEST 154: num cards in hand +2: FAILED
+	Original handCount == 392
+	New handCount == 396
+TEST 155: num cards in hand +2: FAILED
+	Original handCount == 98
+	New handCount == 102
+TEST 156: num cards in hand +2: FAILED
+	Original handCount == 404
+	New handCount == 408
+TEST 157: num cards in hand +2: FAILED
+	Original handCount == 30
+	New handCount == 34
+TEST 158: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 159: num cards in hand +2: FAILED
+	Original handCount == 121
+	New handCount == 125
+TEST 160: num cards in hand +2: FAILED
+	Original handCount == 315
+	New handCount == 319
+TEST 161: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 162: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 163: num cards in hand +2: FAILED
+	Original handCount == 75
+	New handCount == 79
+TEST 164: num cards in hand +2: FAILED
+	Original handCount == 18
+	New handCount == 22
+TEST 165: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 166: num cards in hand +2: FAILED
+	Original handCount == 249
+	New handCount == 253
+TEST 167: num cards in hand +2: FAILED
+	Original handCount == 446
+	New handCount == 450
+TEST 168: num cards in hand +2: FAILED
+	Original handCount == 57
+	New handCount == 61
+TEST 169: num cards in hand +2: FAILED
+	Original handCount == 312
+	New handCount == 316
+TEST 170: num cards in hand +2: FAILED
+	Original handCount == 368
+	New handCount == 372
+TEST 171: num cards in hand +2: FAILED
+	Original handCount == 336
+	New handCount == 340
+TEST 172: num cards in hand +2: FAILED
+	Original handCount == 270
+	New handCount == 274
+TEST 173: num cards in hand +2: FAILED
+	Original handCount == 149
+	New handCount == 153
+TEST 174: num cards in hand +2: FAILED
+	Original handCount == 463
+	New handCount == 467
+TEST 175: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 176: num cards in hand +2: FAILED
+	Original handCount == 158
+	New handCount == 162
+TEST 177: num cards in hand +2: FAILED
+	Original handCount == 241
+	New handCount == 245
+TEST 178: num cards in hand +2: FAILED
+	Original handCount == 296
+	New handCount == 300
+TEST 179: num cards in hand +2: FAILED
+	Original handCount == 475
+	New handCount == 479
+TEST 180: num cards in hand +2: FAILED
+	Original handCount == 99
+	New handCount == 103
+TEST 181: num cards in hand +2: FAILED
+	Original handCount == 320
+	New handCount == 324
+TEST 182: num cards in hand +2: FAILED
+	Original handCount == 339
+	New handCount == 343
+TEST 183: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 184: num cards in hand +2: FAILED
+	Original handCount == 29
+	New handCount == 33
+TEST 185: num cards in hand +2: FAILED
+	Original handCount == 390
+	New handCount == 394
+TEST 186: num cards in hand +2: FAILED
+	Original handCount == 483
+	New handCount == 487
+TEST 187: num cards in hand +2: FAILED
+	Original handCount == 23
+	New handCount == 27
+TEST 188: num cards in hand +2: FAILED
+	Original handCount == 350
+	New handCount == 354
+TEST 189: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 190: num cards in hand +2: FAILED
+	Original handCount == 294
+	New handCount == 298
+TEST 191: num cards in hand +2: FAILED
+	Original handCount == 197
+	New handCount == 201
+TEST 192: num cards in hand +2: FAILED
+	Original handCount == 161
+	New handCount == 165
+TEST 193: num cards in hand +2: FAILED
+	Original handCount == 417
+	New handCount == 421
+TEST 194: num cards in hand +2: FAILED
+	Original handCount == 187
+	New handCount == 191
+TEST 195: num cards in hand +2: FAILED
+	Original handCount == 92
+	New handCount == 96
+TEST 196: num cards in hand +2: FAILED
+	Original handCount == 476
+	New handCount == 480
+TEST 197: num cards in hand +2: FAILED
+	Original handCount == 317
+	New handCount == 321
+TEST 198: num cards in hand +2: FAILED
+	Original handCount == 4
+	New handCount == 8
+TEST 199: num cards in hand +2: FAILED
+	Original handCount == 275
+	New handCount == 279
+TEST 200: num cards in hand +2: FAILED
+	Original handCount == 4
+	New handCount == 8
+TEST 201: num cards in hand +2: FAILED
+	Original handCount == 311
+	New handCount == 315
+TEST 202: num cards in hand +2: FAILED
+	Original handCount == 427
+	New handCount == 431
+TEST 203: num cards in hand +2: FAILED
+	Original handCount == 308
+	New handCount == 312
+TEST 204: num cards in hand +2: FAILED
+	Original handCount == 20
+	New handCount == 24
+TEST 205: num cards in hand +2: FAILED
+	Original handCount == 233
+	New handCount == 237
+TEST 206: num cards in hand +2: FAILED
+	Original handCount == 435
+	New handCount == 439
+TEST 207: num cards in hand +2: FAILED
+	Original handCount == 386
+	New handCount == 390
+TEST 208: num cards in hand +2: FAILED
+	Original handCount == 264
+	New handCount == 268
+TEST 209: num cards in hand +2: FAILED
+	Original handCount == 66
+	New handCount == 70
+TEST 210: num cards in hand +2: FAILED
+	Original handCount == 182
+	New handCount == 186
+TEST 211: num cards in hand +2: FAILED
+	Original handCount == 267
+	New handCount == 271
+TEST 212: num cards in hand +2: FAILED
+	Original handCount == 465
+	New handCount == 469
+TEST 213: num cards in hand +2: FAILED
+	Original handCount == 460
+	New handCount == 464
+TEST 214: num cards in hand +2: FAILED
+	Original handCount == 358
+	New handCount == 362
+TEST 215: num cards in hand +2: FAILED
+	Original handCount == 12
+	New handCount == 16
+TEST 216: num cards in hand +2: FAILED
+	Original handCount == 408
+	New handCount == 412
+TEST 217: num cards in hand +2: FAILED
+	Original handCount == 170
+	New handCount == 174
+TEST 218: num cards in hand +2: FAILED
+	Original handCount == 214
+	New handCount == 218
+TEST 219: num cards in hand +2: FAILED
+	Original handCount == 425
+	New handCount == 429
+TEST 220: num cards in hand +2: FAILED
+	Original handCount == 434
+	New handCount == 438
+TEST 221: num cards in hand +2: FAILED
+	Original handCount == 380
+	New handCount == 384
+TEST 222: num cards in hand +2: FAILED
+	Original handCount == 287
+	New handCount == 291
+TEST 223: num cards in hand +2: FAILED
+	Original handCount == 77
+	New handCount == 81
+TEST 224: num cards in hand +2: FAILED
+	Original handCount == 329
+	New handCount == 333
+TEST 225: num cards in hand +2: FAILED
+	Original handCount == 400
+	New handCount == 404
+TEST 226: num cards in hand +2: FAILED
+	Original handCount == 199
+	New handCount == 203
+TEST 227: num cards in hand +2: FAILED
+	Original handCount == 322
+	New handCount == 326
+TEST 228: num cards in hand +2: FAILED
+	Original handCount == 257
+	New handCount == 261
+TEST 229: num cards in hand +2: FAILED
+	Original handCount == 300
+	New handCount == 304
+TEST 230: num cards in hand +2: FAILED
+	Original handCount == 189
+	New handCount == 193
+TEST 231: num cards in hand +2: FAILED
+	Original handCount == 172
+	New handCount == 176
+TEST 232: num cards in hand +2: FAILED
+	Original handCount == 484
+	New handCount == 488
+TEST 233: num cards in hand +2: FAILED
+	Original handCount == 392
+	New handCount == 396
+TEST 234: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 235: num cards in hand +2: FAILED
+	Original handCount == 59
+	New handCount == 63
+TEST 236: num cards in hand +2: FAILED
+	Original handCount == 195
+	New handCount == 199
+TEST 237: num cards in hand +2: FAILED
+	Original handCount == 160
+	New handCount == 164
+TEST 238: num cards in hand +2: FAILED
+	Original handCount == 496
+	New handCount == 500
+TEST 239: num cards in hand +2: FAILED
+	Original handCount == 158
+	New handCount == 162
+TEST 240: num cards in hand +2: FAILED
+	Original handCount == 416
+	New handCount == 420
+TEST 241: num cards in hand +2: FAILED
+	Original handCount == 473
+	New handCount == 477
+TEST 242: num cards in hand +2: FAILED
+	Original handCount == 207
+	New handCount == 211
+TEST 243: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 244: num cards in hand +2: FAILED
+	Original handCount == 466
+	New handCount == 470
+TEST 245: num cards in hand +2: FAILED
+	Original handCount == 39
+	New handCount == 43
+TEST 246: num cards in hand +2: FAILED
+	Original handCount == 20
+	New handCount == 24
+TEST 247: num cards in hand +2: FAILED
+	Original handCount == 448
+	New handCount == 452
+TEST 248: num cards in hand +2: FAILED
+	Original handCount == 278
+	New handCount == 282
+TEST 249: num cards in hand +2: FAILED
+	Original handCount == 326
+	New handCount == 330
+TEST 250: num cards in hand +2: FAILED
+	Original handCount == 54
+	New handCount == 58
+TEST 251: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 252: num cards in hand +2: FAILED
+	Original handCount == 430
+	New handCount == 434
+TEST 253: num cards in hand +2: FAILED
+	Original handCount == 164
+	New handCount == 168
+TEST 254: num cards in hand +2: FAILED
+	Original handCount == 77
+	New handCount == 81
+TEST 255: num cards in hand +2: FAILED
+	Original handCount == 84
+	New handCount == 88
+TEST 256: num cards in hand +2: FAILED
+	Original handCount == 102
+	New handCount == 106
+TEST 257: num cards in hand +2: FAILED
+	Original handCount == 488
+	New handCount == 492
+TEST 258: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 259: num cards in hand +2: FAILED
+	Original handCount == 335
+	New handCount == 339
+TEST 260: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 261: num cards in hand +2: FAILED
+	Original handCount == 330
+	New handCount == 334
+TEST 262: num cards in hand +2: FAILED
+	Original handCount == 128
+	New handCount == 132
+TEST 263: num cards in hand +2: FAILED
+	Original handCount == 62
+	New handCount == 66
+TEST 264: num cards in hand +2: FAILED
+	Original handCount == 309
+	New handCount == 313
+TEST 265: num cards in hand +2: FAILED
+	Original handCount == 352
+	New handCount == 356
+TEST 266: num cards in hand +2: FAILED
+	Original handCount == 77
+	New handCount == 81
+TEST 267: num cards in hand +2: FAILED
+	Original handCount == 224
+	New handCount == 228
+TEST 268: num cards in hand +2: FAILED
+	Original handCount == 444
+	New handCount == 448
+TEST 269: num cards in hand +2: FAILED
+	Original handCount == 482
+	New handCount == 486
+TEST 270: num cards in hand +2: FAILED
+	Original handCount == 66
+	New handCount == 70
+TEST 271: num cards in hand +2: FAILED
+	Original handCount == 102
+	New handCount == 106
+TEST 272: num cards in hand +2: FAILED
+	Original handCount == 483
+	New handCount == 487
+TEST 273: num cards in hand +2: FAILED
+	Original handCount == 45
+	New handCount == 49
+TEST 274: num cards in hand +2: FAILED
+	Original handCount == 57
+	New handCount == 61
+TEST 275: num cards in hand +2: FAILED
+	Original handCount == 259
+	New handCount == 263
+TEST 276: num cards in hand +2: FAILED
+	Original handCount == 11
+	New handCount == 15
+TEST 277: num cards in hand +2: FAILED
+	Original handCount == 491
+	New handCount == 495
+TEST 278: num cards in hand +2: FAILED
+	Original handCount == 347
+	New handCount == 351
+TEST 279: num cards in hand +2: FAILED
+	Original handCount == 438
+	New handCount == 442
+TEST 280: num cards in hand +2: FAILED
+	Original handCount == 48
+	New handCount == 52
+TEST 281: num cards in hand +2: FAILED
+	Original handCount == 300
+	New handCount == 304
+TEST 282: num cards in hand +2: FAILED
+	Original handCount == 23
+	New handCount == 27
+TEST 283: num cards in hand +2: FAILED
+	Original handCount == 58
+	New handCount == 62
+TEST 284: num cards in hand +2: FAILED
+	Original handCount == 135
+	New handCount == 139
+TEST 285: num cards in hand +2: FAILED
+	Original handCount == 220
+	New handCount == 224
+TEST 286: num cards in hand +2: FAILED
+	Original handCount == 410
+	New handCount == 414
+TEST 287: num cards in hand +2: FAILED
+	Original handCount == 262
+	New handCount == 266
+TEST 288: num cards in hand +2: FAILED
+	Original handCount == 48
+	New handCount == 52
+TEST 289: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 290: num cards in hand +2: FAILED
+	Original handCount == 270
+	New handCount == 274
+TEST 291: num cards in hand +2: FAILED
+	Original handCount == 312
+	New handCount == 316
+TEST 292: num cards in hand +2: FAILED
+	Original handCount == 85
+	New handCount == 89
+TEST 293: num cards in hand +2: FAILED
+	Original handCount == 44
+	New handCount == 48
+TEST 294: num cards in hand +2: FAILED
+	Original handCount == 472
+	New handCount == 476
+TEST 295: num cards in hand +2: FAILED
+	Original handCount == 423
+	New handCount == 427
+TEST 296: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 297: num cards in hand +2: FAILED
+	Original handCount == 446
+	New handCount == 450
+TEST 298: num cards in hand +2: FAILED
+	Original handCount == 257
+	New handCount == 261
+TEST 299: num cards in hand +2: FAILED
+	Original handCount == 338
+	New handCount == 342
+TEST 300: num cards in hand +2: FAILED
+	Original handCount == 264
+	New handCount == 268
+TEST 301: num cards in hand +2: FAILED
+	Original handCount == 384
+	New handCount == 388
+TEST 302: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 303: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 304: num cards in hand +2: FAILED
+	Original handCount == 131
+	New handCount == 135
+TEST 305: num cards in hand +2: FAILED
+	Original handCount == 483
+	New handCount == 487
+TEST 306: num cards in hand +2: FAILED
+	Original handCount == 181
+	New handCount == 185
+TEST 307: num cards in hand +2: FAILED
+	Original handCount == 441
+	New handCount == 445
+TEST 308: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 309: num cards in hand +2: FAILED
+	Original handCount == 442
+	New handCount == 446
+TEST 310: num cards in hand +2: FAILED
+	Original handCount == 321
+	New handCount == 325
+TEST 311: num cards in hand +2: FAILED
+	Original handCount == 27
+	New handCount == 31
+TEST 312: num cards in hand +2: FAILED
+	Original handCount == 188
+	New handCount == 192
+TEST 313: num cards in hand +2: FAILED
+	Original handCount == 333
+	New handCount == 337
+TEST 314: num cards in hand +2: FAILED
+	Original handCount == 366
+	New handCount == 370
+TEST 315: num cards in hand +2: FAILED
+	Original handCount == 445
+	New handCount == 449
+TEST 316: num cards in hand +2: FAILED
+	Original handCount == 131
+	New handCount == 135
+TEST 317: num cards in hand +2: FAILED
+	Original handCount == 298
+	New handCount == 302
+TEST 318: num cards in hand +2: FAILED
+	Original handCount == 331
+	New handCount == 335
+TEST 319: num cards in hand +2: FAILED
+	Original handCount == 468
+	New handCount == 472
+TEST 320: num cards in hand +2: FAILED
+	Original handCount == 389
+	New handCount == 393
+TEST 321: num cards in hand +2: FAILED
+	Original handCount == 359
+	New handCount == 363
+TEST 322: num cards in hand +2: FAILED
+	Original handCount == 126
+	New handCount == 130
+TEST 323: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 324: num cards in hand +2: FAILED
+	Original handCount == 444
+	New handCount == 448
+TEST 325: num cards in hand +2: FAILED
+	Original handCount == 427
+	New handCount == 431
+TEST 326: num cards in hand +2: FAILED
+	Original handCount == 106
+	New handCount == 110
+TEST 327: num cards in hand +2: FAILED
+	Original handCount == 248
+	New handCount == 252
+TEST 328: num cards in hand +2: FAILED
+	Original handCount == 1
+	New handCount == 5
+TEST 329: num cards in hand +2: FAILED
+	Original handCount == 361
+	New handCount == 365
+TEST 330: num cards in hand +2: FAILED
+	Original handCount == 105
+	New handCount == 109
+TEST 331: num cards in hand +2: FAILED
+	Original handCount == 154
+	New handCount == 158
+TEST 332: num cards in hand +2: FAILED
+	Original handCount == 263
+	New handCount == 267
+TEST 333: num cards in hand +2: FAILED
+	Original handCount == 369
+	New handCount == 373
+TEST 334: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 335: num cards in hand +2: FAILED
+	Original handCount == 13
+	New handCount == 17
+TEST 336: num cards in hand +2: FAILED
+	Original handCount == 241
+	New handCount == 245
+TEST 337: num cards in hand +2: FAILED
+	Original handCount == 4
+	New handCount == 8
+TEST 338: num cards in hand +2: FAILED
+	Original handCount == 277
+	New handCount == 281
+TEST 339: num cards in hand +2: FAILED
+	Original handCount == 398
+	New handCount == 402
+TEST 340: num cards in hand +2: FAILED
+	Original handCount == 456
+	New handCount == 460
+TEST 341: num cards in hand +2: FAILED
+	Original handCount == 258
+	New handCount == 262
+TEST 342: num cards in hand +2: FAILED
+	Original handCount == 451
+	New handCount == 455
+TEST 343: num cards in hand +2: FAILED
+	Original handCount == 44
+	New handCount == 48
+TEST 344: num cards in hand +2: FAILED
+	Original handCount == 170
+	New handCount == 174
+TEST 345: num cards in hand +2: FAILED
+	Original handCount == 256
+	New handCount == 260
+TEST 346: num cards in hand +2: FAILED
+	Original handCount == 27
+	New handCount == 31
+TEST 347: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 348: num cards in hand +2: FAILED
+	Original handCount == 5
+	New handCount == 9
+TEST 349: num cards in hand +2: FAILED
+	Original handCount == 105
+	New handCount == 109
+TEST 350: num cards in hand +2: FAILED
+	Original handCount == 248
+	New handCount == 252
+TEST 351: num cards in hand +2: FAILED
+	Original handCount == 455
+	New handCount == 459
+TEST 352: num cards in hand +2: FAILED
+	Original handCount == 497
+	New handCount == 501
+TEST 353: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 354: num cards in hand +2: FAILED
+	Original handCount == 132
+	New handCount == 136
+TEST 355: num cards in hand +2: FAILED
+	Original handCount == 177
+	New handCount == 181
+TEST 356: num cards in hand +2: FAILED
+	Original handCount == 112
+	New handCount == 116
+TEST 357: num cards in hand +2: FAILED
+	Original handCount == 362
+	New handCount == 366
+TEST 358: num cards in hand +2: FAILED
+	Original handCount == 490
+	New handCount == 494
+TEST 359: num cards in hand +2: FAILED
+	Original handCount == 277
+	New handCount == 281
+TEST 360: num cards in hand +2: FAILED
+	Original handCount == 94
+	New handCount == 98
+TEST 361: num cards in hand +2: FAILED
+	Original handCount == 131
+	New handCount == 135
+TEST 362: num cards in hand +2: FAILED
+	Original handCount == 69
+	New handCount == 73
+TEST 363: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 364: num cards in hand +2: FAILED
+	Original handCount == 143
+	New handCount == 147
+TEST 365: num cards in hand +2: FAILED
+	Original handCount == 14
+	New handCount == 18
+TEST 366: num cards in hand +2: FAILED
+	Original handCount == 408
+	New handCount == 412
+TEST 367: num cards in hand +2: FAILED
+	Original handCount == 89
+	New handCount == 93
+TEST 368: num cards in hand +2: FAILED
+	Original handCount == 273
+	New handCount == 277
+TEST 369: num cards in hand +2: FAILED
+	Original handCount == 299
+	New handCount == 303
+TEST 370: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 371: num cards in hand +2: FAILED
+	Original handCount == 440
+	New handCount == 444
+TEST 372: num cards in hand +2: FAILED
+	Original handCount == 263
+	New handCount == 267
+TEST 373: num cards in hand +2: FAILED
+	Original handCount == 438
+	New handCount == 442
+TEST 374: num cards in hand +2: FAILED
+	Original handCount == 283
+	New handCount == 287
+TEST 375: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 376: num cards in hand +2: FAILED
+	Original handCount == 468
+	New handCount == 472
+TEST 377: num cards in hand +2: FAILED
+	Original handCount == 275
+	New handCount == 279
+TEST 378: num cards in hand +2: FAILED
+	Original handCount == 34
+	New handCount == 38
+TEST 379: num cards in hand +2: FAILED
+	Original handCount == 465
+	New handCount == 469
+TEST 380: num cards in hand +2: FAILED
+	Original handCount == 190
+	New handCount == 194
+TEST 381: num cards in hand +2: FAILED
+	Original handCount == 438
+	New handCount == 442
+TEST 382: num cards in hand +2: FAILED
+	Original handCount == 140
+	New handCount == 144
+TEST 383: num cards in hand +2: FAILED
+	Original handCount == 454
+	New handCount == 458
+TEST 384: num cards in hand +2: FAILED
+	Original handCount == 7
+	New handCount == 11
+TEST 385: num cards in hand +2: FAILED
+	Original handCount == 362
+	New handCount == 366
+TEST 386: num cards in hand +2: FAILED
+	Original handCount == 446
+	New handCount == 450
+TEST 387: num cards in hand +2: FAILED
+	Original handCount == 315
+	New handCount == 319
+TEST 388: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 389: num cards in hand +2: FAILED
+	Original handCount == 70
+	New handCount == 74
+TEST 390: num cards in hand +2: FAILED
+	Original handCount == 215
+	New handCount == 219
+TEST 391: num cards in hand +2: FAILED
+	Original handCount == 449
+	New handCount == 453
+TEST 392: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 393: num cards in hand +2: FAILED
+	Original handCount == 497
+	New handCount == 501
+TEST 394: num cards in hand +2: FAILED
+	Original handCount == 355
+	New handCount == 359
+TEST 395: num cards in hand +2: FAILED
+	Original handCount == 187
+	New handCount == 191
+TEST 396: num cards in hand +2: FAILED
+	Original handCount == 290
+	New handCount == 294
+TEST 397: num cards in hand +2: FAILED
+	Original handCount == 103
+	New handCount == 107
+TEST 398: num cards in hand +2: FAILED
+	Original handCount == 410
+	New handCount == 414
+TEST 399: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 400: num cards in hand +2: FAILED
+	Original handCount == 332
+	New handCount == 336
+TEST 401: num cards in hand +2: FAILED
+	Original handCount == 154
+	New handCount == 158
+TEST 402: num cards in hand +2: FAILED
+	Original handCount == 400
+	New handCount == 404
+TEST 403: num cards in hand +2: FAILED
+	Original handCount == 354
+	New handCount == 358
+TEST 404: num cards in hand +2: FAILED
+	Original handCount == 240
+	New handCount == 244
+TEST 405: num cards in hand +2: FAILED
+	Original handCount == 499
+	New handCount == 503
+TEST 406: num cards in hand +2: FAILED
+	Original handCount == 325
+	New handCount == 329
+TEST 407: num cards in hand +2: FAILED
+	Original handCount == 68
+	New handCount == 72
+TEST 408: num cards in hand +2: FAILED
+	Original handCount == 414
+	New handCount == 418
+TEST 409: num cards in hand +2: FAILED
+	Original handCount == 35
+	New handCount == 39
+TEST 410: num cards in hand +2: FAILED
+	Original handCount == 243
+	New handCount == 247
+TEST 411: num cards in hand +2: FAILED
+	Original handCount == 234
+	New handCount == 238
+TEST 412: num cards in hand +2: FAILED
+	Original handCount == 464
+	New handCount == 468
+TEST 413: num cards in hand +2: FAILED
+	Original handCount == 436
+	New handCount == 440
+TEST 414: num cards in hand +2: FAILED
+	Original handCount == 334
+	New handCount == 338
+TEST 415: num cards in hand +2: FAILED
+	Original handCount == 357
+	New handCount == 361
+TEST 416: num cards in hand +2: FAILED
+	Original handCount == 389
+	New handCount == 393
+TEST 417: num cards in hand +2: FAILED
+	Original handCount == 463
+	New handCount == 467
+TEST 418: num cards in hand +2: FAILED
+	Original handCount == 337
+	New handCount == 341
+TEST 419: num cards in hand +2: FAILED
+	Original handCount == 392
+	New handCount == 396
+TEST 420: num cards in hand +2: FAILED
+	Original handCount == 445
+	New handCount == 449
+TEST 421: num cards in hand +2: FAILED
+	Original handCount == 403
+	New handCount == 407
+TEST 422: num cards in hand +2: FAILED
+	Original handCount == 494
+	New handCount == 498
+TEST 423: num cards in hand +2: FAILED
+	Original handCount == 65
+	New handCount == 69
+TEST 424: num cards in hand +2: FAILED
+	Original handCount == 359
+	New handCount == 363
+TEST 425: num cards in hand +2: FAILED
+	Original handCount == 90
+	New handCount == 94
+TEST 426: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 427: num cards in hand +2: FAILED
+	Original handCount == 237
+	New handCount == 241
+TEST 428: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 429: num cards in hand +2: FAILED
+	Original handCount == 141
+	New handCount == 145
+TEST 430: num cards in hand +2: FAILED
+	Original handCount == 359
+	New handCount == 363
+TEST 431: num cards in hand +2: FAILED
+	Original handCount == 344
+	New handCount == 348
+TEST 432: num cards in hand +2: FAILED
+	Original handCount == 9
+	New handCount == 13
+TEST 433: num cards in hand +2: FAILED
+	Original handCount == 275
+	New handCount == 279
+TEST 434: num cards in hand +2: FAILED
+	Original handCount == 218
+	New handCount == 222
+TEST 435: num cards in hand +2: FAILED
+	Original handCount == 360
+	New handCount == 364
+TEST 436: num cards in hand +2: FAILED
+	Original handCount == 389
+	New handCount == 393
+TEST 437: num cards in hand +2: FAILED
+	Original handCount == 205
+	New handCount == 209
+TEST 438: num cards in hand +2: FAILED
+	Original handCount == 424
+	New handCount == 428
+TEST 439: num cards in hand +2: FAILED
+	Original handCount == 380
+	New handCount == 384
+TEST 440: num cards in hand +2: FAILED
+	Original handCount == 130
+	New handCount == 134
+TEST 441: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 442: num cards in hand +2: FAILED
+	Original handCount == 71
+	New handCount == 75
+TEST 443: num cards in hand +2: FAILED
+	Original handCount == 497
+	New handCount == 501
+TEST 444: num cards in hand +2: FAILED
+	Original handCount == 484
+	New handCount == 488
+TEST 445: num cards in hand +2: FAILED
+	Original handCount == 79
+	New handCount == 83
+TEST 446: num cards in hand +2: FAILED
+	Original handCount == 307
+	New handCount == 311
+TEST 447: num cards in hand +2: FAILED
+	Original handCount == 319
+	New handCount == 323
+TEST 448: num cards in hand +2: FAILED
+	Original handCount == 241
+	New handCount == 245
+TEST 449: num cards in hand +2: FAILED
+	Original handCount == 190
+	New handCount == 194
+TEST 450: num cards in hand +2: FAILED
+	Original handCount == 195
+	New handCount == 199
+TEST 451: num cards in hand +2: FAILED
+	Original handCount == 43
+	New handCount == 47
+TEST 452: num cards in hand +2: FAILED
+	Original handCount == 14
+	New handCount == 18
+TEST 453: num cards in hand +2: FAILED
+	Original handCount == 131
+	New handCount == 135
+TEST 454: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 455: num cards in hand +2: FAILED
+	Original handCount == 425
+	New handCount == 429
+TEST 456: num cards in hand +2: FAILED
+	Original handCount == 14
+	New handCount == 18
+TEST 457: num cards in hand +2: FAILED
+	Original handCount == 285
+	New handCount == 289
+TEST 458: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 459: num cards in hand +2: FAILED
+	Original handCount == 206
+	New handCount == 210
+TEST 460: num cards in hand +2: FAILED
+	Original handCount == 47
+	New handCount == 51
+TEST 461: num cards in hand +2: FAILED
+	Original handCount == 12
+	New handCount == 16
+TEST 462: num cards in hand +2: FAILED
+	Original handCount == 421
+	New handCount == 425
+TEST 463: num cards in hand +2: FAILED
+	Original handCount == 201
+	New handCount == 205
+TEST 464: num cards in hand +2: FAILED
+	Original handCount == 28
+	New handCount == 32
+TEST 465: num cards in hand +2: FAILED
+	Original handCount == 444
+	New handCount == 448
+TEST 466: num cards in hand +2: FAILED
+	Original handCount == 393
+	New handCount == 397
+TEST 467: num cards in hand +2: FAILED
+	Original handCount == 164
+	New handCount == 168
+TEST 468: num cards in hand +2: FAILED
+	Original handCount == 261
+	New handCount == 265
+TEST 469: num cards in hand +2: FAILED
+	Original handCount == 461
+	New handCount == 465
+TEST 470: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 471: num cards in hand +2: FAILED
+	Original handCount == 371
+	New handCount == 375
+TEST 472: num cards in hand +2: FAILED
+	Original handCount == 456
+	New handCount == 460
+TEST 473: num cards in hand +2: FAILED
+	Original handCount == 14
+	New handCount == 18
+TEST 474: num cards in hand +2: FAILED
+	Original handCount == 405
+	New handCount == 409
+TEST 475: num cards in hand +2: FAILED
+	Original handCount == 264
+	New handCount == 268
+TEST 476: num cards in hand +2: FAILED
+	Original handCount == 9
+	New handCount == 13
+TEST 477: num cards in hand +2: FAILED
+	Original handCount == 355
+	New handCount == 359
+TEST 478: num cards in hand +2: FAILED
+	Original handCount == 149
+	New handCount == 153
+TEST 479: num cards in hand +2: FAILED
+	Original handCount == 82
+	New handCount == 86
+TEST 480: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 481: num cards in hand +2: FAILED
+	Original handCount == 414
+	New handCount == 418
+TEST 482: num cards in hand +2: FAILED
+	Original handCount == 150
+	New handCount == 154
+TEST 483: num cards in hand +2: FAILED
+	Original handCount == 372
+	New handCount == 376
+TEST 484: num cards in hand +2: FAILED
+	Original handCount == 401
+	New handCount == 405
+TEST 485: num cards in hand +2: FAILED
+	Original handCount == 104
+	New handCount == 108
+TEST 486: num cards in hand +2: FAILED
+	Original handCount == 453
+	New handCount == 457
+TEST 487: num cards in hand +2: FAILED
+	Original handCount == 43
+	New handCount == 47
+TEST 488: num cards in hand +2: FAILED
+	Original handCount == 239
+	New handCount == 243
+TEST 489: num cards in hand +2: FAILED
+	Original handCount == 101
+	New handCount == 105
+TEST 490: num cards in hand +2: FAILED
+	Original handCount == 230
+	New handCount == 234
+TEST 491: num cards in hand +2: FAILED
+	Original handCount == 291
+	New handCount == 295
+TEST 492: num cards in hand +2: FAILED
+	Original handCount == 222
+	New handCount == 226
+TEST 493: num cards in hand +2: FAILED
+	Original handCount == 198
+	New handCount == 202
+TEST 494: num cards in hand +2: FAILED
+	Original handCount == 82
+	New handCount == 86
+TEST 495: num cards in hand +2: FAILED
+	Original handCount == 173
+	New handCount == 177
+TEST 496: num cards in hand +2: FAILED
+	Original handCount == 304
+	New handCount == 308
+TEST 497: num cards in hand +2: FAILED
+	Original handCount == 236
+	New handCount == 240
+TEST 498: num cards in hand +2: FAILED
+	Original handCount == 109
+	New handCount == 113
+TEST 499: num cards in hand +2: FAILED
+	Original handCount == 187
+	New handCount == 191
+TEST 500: num cards in hand +2: FAILED
+	Original handCount == 274
+	New handCount == 278
+TEST 501: num cards in hand +2: FAILED
+	Original handCount == 430
+	New handCount == 434
+TEST 502: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 503: num cards in hand +2: FAILED
+	Original handCount == 53
+	New handCount == 57
+TEST 504: num cards in hand +2: FAILED
+	Original handCount == 318
+	New handCount == 322
+TEST 505: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 506: num cards in hand +2: FAILED
+	Original handCount == 456
+	New handCount == 460
+TEST 507: num cards in hand +2: FAILED
+	Original handCount == 480
+	New handCount == 484
+TEST 508: num cards in hand +2: FAILED
+	Original handCount == 368
+	New handCount == 372
+TEST 509: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 510: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 511: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 512: num cards in hand +2: FAILED
+	Original handCount == 273
+	New handCount == 277
+TEST 513: num cards in hand +2: FAILED
+	Original handCount == 201
+	New handCount == 205
+TEST 514: num cards in hand +2: FAILED
+	Original handCount == 227
+	New handCount == 231
+TEST 515: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 516: num cards in hand +2: FAILED
+	Original handCount == 159
+	New handCount == 163
+TEST 517: num cards in hand +2: FAILED
+	Original handCount == 458
+	New handCount == 462
+TEST 518: num cards in hand +2: FAILED
+	Original handCount == 188
+	New handCount == 192
+TEST 519: num cards in hand +2: FAILED
+	Original handCount == 45
+	New handCount == 49
+TEST 520: num cards in hand +2: FAILED
+	Original handCount == 132
+	New handCount == 136
+TEST 521: num cards in hand +2: FAILED
+	Original handCount == 216
+	New handCount == 220
+TEST 522: num cards in hand +2: FAILED
+	Original handCount == 100
+	New handCount == 104
+TEST 523: num cards in hand +2: FAILED
+	Original handCount == 175
+	New handCount == 179
+TEST 524: num cards in hand +2: FAILED
+	Original handCount == 428
+	New handCount == 432
+TEST 525: num cards in hand +2: FAILED
+	Original handCount == 441
+	New handCount == 445
+TEST 526: num cards in hand +2: FAILED
+	Original handCount == 249
+	New handCount == 253
+TEST 527: num cards in hand +2: FAILED
+	Original handCount == 341
+	New handCount == 345
+TEST 528: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 529: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 530: num cards in hand +2: FAILED
+	Original handCount == 218
+	New handCount == 222
+TEST 531: num cards in hand +2: FAILED
+	Original handCount == 418
+	New handCount == 422
+TEST 532: num cards in hand +2: FAILED
+	Original handCount == 291
+	New handCount == 295
+TEST 533: num cards in hand +2: FAILED
+	Original handCount == 114
+	New handCount == 118
+TEST 534: num cards in hand +2: FAILED
+	Original handCount == 252
+	New handCount == 256
+TEST 535: num cards in hand +2: FAILED
+	Original handCount == 272
+	New handCount == 276
+TEST 536: num cards in hand +2: FAILED
+	Original handCount == 389
+	New handCount == 393
+TEST 537: num cards in hand +2: FAILED
+	Original handCount == 358
+	New handCount == 362
+TEST 538: num cards in hand +2: FAILED
+	Original handCount == 3
+	New handCount == 7
+TEST 539: num cards in hand +2: FAILED
+	Original handCount == 196
+	New handCount == 200
+TEST 540: num cards in hand +2: FAILED
+	Original handCount == 349
+	New handCount == 353
+TEST 541: num cards in hand +2: FAILED
+	Original handCount == 202
+	New handCount == 206
+TEST 542: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 543: num cards in hand +2: FAILED
+	Original handCount == 327
+	New handCount == 331
+TEST 544: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 545: num cards in hand +2: FAILED
+	Original handCount == 360
+	New handCount == 364
+TEST 546: num cards in hand +2: FAILED
+	Original handCount == 96
+	New handCount == 100
+TEST 547: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 548: num cards in hand +2: FAILED
+	Original handCount == 177
+	New handCount == 181
+TEST 549: num cards in hand +2: FAILED
+	Original handCount == 289
+	New handCount == 293
+TEST 550: num cards in hand +2: FAILED
+	Original handCount == 415
+	New handCount == 419
+TEST 551: num cards in hand +2: FAILED
+	Original handCount == 356
+	New handCount == 360
+TEST 552: num cards in hand +2: FAILED
+	Original handCount == 65
+	New handCount == 69
+TEST 553: num cards in hand +2: FAILED
+	Original handCount == 368
+	New handCount == 372
+TEST 554: num cards in hand +2: FAILED
+	Original handCount == 272
+	New handCount == 276
+TEST 555: num cards in hand +2: FAILED
+	Original handCount == 472
+	New handCount == 476
+TEST 556: num cards in hand +2: FAILED
+	Original handCount == 226
+	New handCount == 230
+TEST 557: num cards in hand +2: FAILED
+	Original handCount == 196
+	New handCount == 200
+TEST 558: num cards in hand +2: FAILED
+	Original handCount == 292
+	New handCount == 296
+TEST 559: num cards in hand +2: FAILED
+	Original handCount == 17
+	New handCount == 21
+TEST 560: num cards in hand +2: FAILED
+	Original handCount == 52
+	New handCount == 56
+TEST 561: num cards in hand +2: FAILED
+	Original handCount == 431
+	New handCount == 435
+TEST 562: num cards in hand +2: FAILED
+	Original handCount == 86
+	New handCount == 90
+TEST 563: num cards in hand +2: FAILED
+	Original handCount == 180
+	New handCount == 184
+TEST 564: num cards in hand +2: FAILED
+	Original handCount == 115
+	New handCount == 119
+TEST 565: num cards in hand +2: FAILED
+	Original handCount == 101
+	New handCount == 105
+TEST 566: num cards in hand +2: FAILED
+	Original handCount == 450
+	New handCount == 454
+TEST 567: num cards in hand +2: FAILED
+	Original handCount == 145
+	New handCount == 149
+TEST 568: num cards in hand +2: FAILED
+	Original handCount == 183
+	New handCount == 187
+TEST 569: num cards in hand +2: FAILED
+	Original handCount == 492
+	New handCount == 496
+TEST 570: num cards in hand +2: FAILED
+	Original handCount == 153
+	New handCount == 157
+TEST 571: num cards in hand +2: FAILED
+	Original handCount == 440
+	New handCount == 444
+TEST 572: num cards in hand +2: FAILED
+	Original handCount == 400
+	New handCount == 404
+TEST 573: num cards in hand +2: FAILED
+	Original handCount == 12
+	New handCount == 16
+TEST 574: num cards in hand +2: FAILED
+	Original handCount == 426
+	New handCount == 430
+TEST 575: num cards in hand +2: FAILED
+	Original handCount == 387
+	New handCount == 391
+TEST 576: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 577: num cards in hand +2: FAILED
+	Original handCount == 160
+	New handCount == 164
+TEST 578: num cards in hand +2: FAILED
+	Original handCount == 249
+	New handCount == 253
+TEST 579: num cards in hand +2: FAILED
+	Original handCount == 407
+	New handCount == 411
+TEST 580: num cards in hand +2: FAILED
+	Original handCount == 16
+	New handCount == 20
+TEST 581: num cards in hand +2: FAILED
+	Original handCount == 391
+	New handCount == 395
+TEST 582: num cards in hand +2: FAILED
+	Original handCount == 456
+	New handCount == 460
+TEST 583: num cards in hand +2: FAILED
+	Original handCount == 86
+	New handCount == 90
+TEST 584: num cards in hand +2: FAILED
+	Original handCount == 463
+	New handCount == 467
+TEST 585: num cards in hand +2: FAILED
+	Original handCount == 224
+	New handCount == 228
+TEST 586: num cards in hand +2: FAILED
+	Original handCount == 171
+	New handCount == 175
+TEST 587: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 588: num cards in hand +2: FAILED
+	Original handCount == 333
+	New handCount == 337
+TEST 589: num cards in hand +2: FAILED
+	Original handCount == 330
+	New handCount == 334
+TEST 590: num cards in hand +2: FAILED
+	Original handCount == 46
+	New handCount == 50
+TEST 591: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 592: num cards in hand +2: FAILED
+	Original handCount == 65
+	New handCount == 69
+TEST 593: num cards in hand +2: FAILED
+	Original handCount == 380
+	New handCount == 384
+TEST 594: num cards in hand +2: FAILED
+	Original handCount == 405
+	New handCount == 409
+TEST 595: num cards in hand +2: FAILED
+	Original handCount == 61
+	New handCount == 65
+TEST 596: num cards in hand +2: FAILED
+	Original handCount == 328
+	New handCount == 332
+TEST 597: num cards in hand +2: FAILED
+	Original handCount == 424
+	New handCount == 428
+TEST 598: num cards in hand +2: FAILED
+	Original handCount == 458
+	New handCount == 462
+TEST 599: num cards in hand +2: FAILED
+	Original handCount == 435
+	New handCount == 439
+TEST 600: num cards in hand +2: FAILED
+	Original handCount == 192
+	New handCount == 196
+TEST 601: num cards in hand +2: FAILED
+	Original handCount == 187
+	New handCount == 191
+TEST 602: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 603: num cards in hand +2: FAILED
+	Original handCount == 230
+	New handCount == 234
+TEST 604: num cards in hand +2: FAILED
+	Original handCount == 465
+	New handCount == 469
+TEST 605: num cards in hand +2: FAILED
+	Original handCount == 70
+	New handCount == 74
+TEST 606: num cards in hand +2: FAILED
+	Original handCount == 263
+	New handCount == 267
+TEST 607: num cards in hand +2: FAILED
+	Original handCount == 149
+	New handCount == 153
+TEST 608: num cards in hand +2: FAILED
+	Original handCount == 448
+	New handCount == 452
+TEST 609: num cards in hand +2: FAILED
+	Original handCount == 341
+	New handCount == 345
+TEST 610: num cards in hand +2: FAILED
+	Original handCount == 63
+	New handCount == 67
+TEST 611: num cards in hand +2: FAILED
+	Original handCount == 156
+	New handCount == 160
+TEST 612: num cards in hand +2: FAILED
+	Original handCount == 391
+	New handCount == 395
+TEST 613: num cards in hand +2: FAILED
+	Original handCount == 282
+	New handCount == 286
+TEST 614: num cards in hand +2: FAILED
+	Original handCount == 392
+	New handCount == 396
+TEST 615: num cards in hand +2: FAILED
+	Original handCount == 430
+	New handCount == 434
+TEST 616: num cards in hand +2: FAILED
+	Original handCount == 3
+	New handCount == 7
+TEST 617: num cards in hand +2: FAILED
+	Original handCount == 250
+	New handCount == 254
+TEST 618: num cards in hand +2: FAILED
+	Original handCount == 448
+	New handCount == 452
+TEST 619: num cards in hand +2: FAILED
+	Original handCount == 384
+	New handCount == 388
+TEST 620: num cards in hand +2: FAILED
+	Original handCount == 180
+	New handCount == 184
+TEST 621: num cards in hand +2: FAILED
+	Original handCount == 250
+	New handCount == 254
+TEST 622: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 623: num cards in hand +2: FAILED
+	Original handCount == 18
+	New handCount == 22
+TEST 624: num cards in hand +2: FAILED
+	Original handCount == 231
+	New handCount == 235
+TEST 625: num cards in hand +2: FAILED
+	Original handCount == 85
+	New handCount == 89
+TEST 626: num cards in hand +2: FAILED
+	Original handCount == 128
+	New handCount == 132
+TEST 627: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 628: num cards in hand +2: FAILED
+	Original handCount == 165
+	New handCount == 169
+TEST 629: num cards in hand +2: FAILED
+	Original handCount == 159
+	New handCount == 163
+TEST 630: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 631: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 632: num cards in hand +2: FAILED
+	Original handCount == 114
+	New handCount == 118
+TEST 633: num cards in hand +2: FAILED
+	Original handCount == 410
+	New handCount == 414
+TEST 634: num cards in hand +2: FAILED
+	Original handCount == 459
+	New handCount == 463
+TEST 635: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 636: num cards in hand +2: FAILED
+	Original handCount == 90
+	New handCount == 94
+TEST 637: num cards in hand +2: FAILED
+	Original handCount == 365
+	New handCount == 369
+TEST 638: num cards in hand +2: FAILED
+	Original handCount == 409
+	New handCount == 413
+TEST 639: num cards in hand +2: FAILED
+	Original handCount == 149
+	New handCount == 153
+TEST 640: num cards in hand +2: FAILED
+	Original handCount == 286
+	New handCount == 290
+TEST 641: num cards in hand +2: FAILED
+	Original handCount == 450
+	New handCount == 454
+TEST 642: num cards in hand +2: FAILED
+	Original handCount == 88
+	New handCount == 92
+TEST 643: num cards in hand +2: FAILED
+	Original handCount == 140
+	New handCount == 144
+TEST 644: num cards in hand +2: FAILED
+	Original handCount == 5
+	New handCount == 9
+TEST 645: num cards in hand +2: FAILED
+	Original handCount == 182
+	New handCount == 186
+TEST 646: num cards in hand +2: FAILED
+	Original handCount == 470
+	New handCount == 474
+TEST 647: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 648: num cards in hand +2: FAILED
+	Original handCount == 84
+	New handCount == 88
+TEST 649: num cards in hand +2: FAILED
+	Original handCount == 372
+	New handCount == 376
+TEST 650: num cards in hand +2: FAILED
+	Original handCount == 195
+	New handCount == 199
+TEST 651: num cards in hand +2: FAILED
+	Original handCount == 259
+	New handCount == 263
+TEST 652: num cards in hand +2: FAILED
+	Original handCount == 290
+	New handCount == 294
+TEST 653: num cards in hand +2: FAILED
+	Original handCount == 156
+	New handCount == 160
+TEST 654: num cards in hand +2: FAILED
+	Original handCount == 279
+	New handCount == 283
+TEST 655: num cards in hand +2: FAILED
+	Original handCount == 471
+	New handCount == 475
+TEST 656: num cards in hand +2: FAILED
+	Original handCount == 261
+	New handCount == 265
+TEST 657: num cards in hand +2: FAILED
+	Original handCount == 248
+	New handCount == 252
+TEST 658: num cards in hand +2: FAILED
+	Original handCount == 148
+	New handCount == 152
+TEST 659: num cards in hand +2: FAILED
+	Original handCount == 471
+	New handCount == 475
+TEST 660: num cards in hand +2: FAILED
+	Original handCount == 15
+	New handCount == 19
+TEST 661: num cards in hand +2: FAILED
+	Original handCount == 240
+	New handCount == 244
+TEST 662: num cards in hand +2: FAILED
+	Original handCount == 470
+	New handCount == 474
+TEST 663: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 664: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 665: num cards in hand +2: FAILED
+	Original handCount == 16
+	New handCount == 20
+TEST 666: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 667: num cards in hand +2: FAILED
+	Original handCount == 293
+	New handCount == 297
+TEST 668: num cards in hand +2: FAILED
+	Original handCount == 116
+	New handCount == 120
+TEST 669: num cards in hand +2: FAILED
+	Original handCount == 393
+	New handCount == 397
+TEST 670: num cards in hand +2: FAILED
+	Original handCount == 281
+	New handCount == 285
+TEST 671: num cards in hand +2: FAILED
+	Original handCount == 45
+	New handCount == 49
+TEST 672: num cards in hand +2: FAILED
+	Original handCount == 277
+	New handCount == 281
+TEST 673: num cards in hand +2: FAILED
+	Original handCount == 181
+	New handCount == 185
+TEST 674: num cards in hand +2: FAILED
+	Original handCount == 17
+	New handCount == 21
+TEST 675: num cards in hand +2: FAILED
+	Original handCount == 198
+	New handCount == 202
+TEST 676: num cards in hand +2: FAILED
+	Original handCount == 199
+	New handCount == 203
+TEST 677: num cards in hand +2: FAILED
+	Original handCount == 33
+	New handCount == 37
+TEST 678: num cards in hand +2: FAILED
+	Original handCount == 229
+	New handCount == 233
+TEST 679: num cards in hand +2: FAILED
+	Original handCount == 288
+	New handCount == 292
+TEST 680: num cards in hand +2: FAILED
+	Original handCount == 211
+	New handCount == 215
+TEST 681: num cards in hand +2: FAILED
+	Original handCount == 158
+	New handCount == 162
+TEST 682: num cards in hand +2: FAILED
+	Original handCount == 52
+	New handCount == 56
+TEST 683: num cards in hand +2: FAILED
+	Original handCount == 204
+	New handCount == 208
+TEST 684: num cards in hand +2: FAILED
+	Original handCount == 434
+	New handCount == 438
+TEST 685: num cards in hand +2: FAILED
+	Original handCount == 339
+	New handCount == 343
+TEST 686: num cards in hand +2: FAILED
+	Original handCount == 124
+	New handCount == 128
+TEST 687: num cards in hand +2: FAILED
+	Original handCount == 25
+	New handCount == 29
+TEST 688: num cards in hand +2: FAILED
+	Original handCount == 90
+	New handCount == 94
+TEST 689: num cards in hand +2: FAILED
+	Original handCount == 309
+	New handCount == 313
+TEST 690: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 691: num cards in hand +2: FAILED
+	Original handCount == 374
+	New handCount == 378
+TEST 692: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 693: num cards in hand +2: FAILED
+	Original handCount == 353
+	New handCount == 357
+TEST 694: num cards in hand +2: FAILED
+	Original handCount == 450
+	New handCount == 454
+TEST 695: num cards in hand +2: FAILED
+	Original handCount == 340
+	New handCount == 344
+TEST 696: num cards in hand +2: FAILED
+	Original handCount == 442
+	New handCount == 446
+TEST 697: num cards in hand +2: FAILED
+	Original handCount == 86
+	New handCount == 90
+TEST 698: num cards in hand +2: FAILED
+	Original handCount == 251
+	New handCount == 255
+TEST 699: num cards in hand +2: FAILED
+	Original handCount == 152
+	New handCount == 156
+TEST 700: num cards in hand +2: FAILED
+	Original handCount == 156
+	New handCount == 160
+TEST 701: num cards in hand +2: FAILED
+	Original handCount == 294
+	New handCount == 298
+TEST 702: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 703: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 704: num cards in hand +2: FAILED
+	Original handCount == 159
+	New handCount == 163
+TEST 705: num cards in hand +2: FAILED
+	Original handCount == 41
+	New handCount == 45
+TEST 706: num cards in hand +2: FAILED
+	Original handCount == 468
+	New handCount == 472
+TEST 707: num cards in hand +2: FAILED
+	Original handCount == 119
+	New handCount == 123
+TEST 708: num cards in hand +2: FAILED
+	Original handCount == 160
+	New handCount == 164
+TEST 709: num cards in hand +2: FAILED
+	Original handCount == 335
+	New handCount == 339
+TEST 710: num cards in hand +2: FAILED
+	Original handCount == 141
+	New handCount == 145
+TEST 711: num cards in hand +2: FAILED
+	Original handCount == 158
+	New handCount == 162
+TEST 712: num cards in hand +2: FAILED
+	Original handCount == 2
+	New handCount == 6
+TEST 713: num cards in hand +2: FAILED
+	Original handCount == 374
+	New handCount == 378
+TEST 714: num cards in hand +2: FAILED
+	Original handCount == 332
+	New handCount == 336
+TEST 715: num cards in hand +2: FAILED
+	Original handCount == 186
+	New handCount == 190
+TEST 716: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 717: num cards in hand +2: FAILED
+	Original handCount == 234
+	New handCount == 238
+TEST 718: num cards in hand +2: FAILED
+	Original handCount == 370
+	New handCount == 374
+TEST 719: num cards in hand +2: FAILED
+	Original handCount == 75
+	New handCount == 79
+TEST 720: num cards in hand +2: FAILED
+	Original handCount == 103
+	New handCount == 107
+TEST 721: num cards in hand +2: FAILED
+	Original handCount == 467
+	New handCount == 471
+TEST 722: num cards in hand +2: FAILED
+	Original handCount == 444
+	New handCount == 448
+TEST 723: num cards in hand +2: FAILED
+	Original handCount == 102
+	New handCount == 106
+TEST 724: num cards in hand +2: FAILED
+	Original handCount == 359
+	New handCount == 363
+TEST 725: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 726: num cards in hand +2: FAILED
+	Original handCount == 118
+	New handCount == 122
+TEST 727: num cards in hand +2: FAILED
+	Original handCount == 292
+	New handCount == 296
+TEST 728: num cards in hand +2: FAILED
+	Original handCount == 109
+	New handCount == 113
+TEST 729: num cards in hand +2: FAILED
+	Original handCount == 303
+	New handCount == 307
+TEST 730: num cards in hand +2: FAILED
+	Original handCount == 83
+	New handCount == 87
+TEST 731: num cards in hand +2: FAILED
+	Original handCount == 379
+	New handCount == 383
+TEST 732: num cards in hand +2: FAILED
+	Original handCount == 19
+	New handCount == 23
+TEST 733: num cards in hand +2: FAILED
+	Original handCount == 7
+	New handCount == 11
+TEST 734: num cards in hand +2: FAILED
+	Original handCount == 464
+	New handCount == 468
+TEST 735: num cards in hand +2: FAILED
+	Original handCount == 107
+	New handCount == 111
+TEST 736: num cards in hand +2: FAILED
+	Original handCount == 354
+	New handCount == 358
+TEST 737: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 738: num cards in hand +2: FAILED
+	Original handCount == 156
+	New handCount == 160
+TEST 739: num cards in hand +2: FAILED
+	Original handCount == 402
+	New handCount == 406
+TEST 740: num cards in hand +2: FAILED
+	Original handCount == 75
+	New handCount == 79
+TEST 741: num cards in hand +2: FAILED
+	Original handCount == 34
+	New handCount == 38
+TEST 742: num cards in hand +2: FAILED
+	Original handCount == 91
+	New handCount == 95
+TEST 743: num cards in hand +2: FAILED
+	Original handCount == 424
+	New handCount == 428
+TEST 744: num cards in hand +2: FAILED
+	Original handCount == 31
+	New handCount == 35
+TEST 745: num cards in hand +2: FAILED
+	Original handCount == 112
+	New handCount == 116
+TEST 746: num cards in hand +2: FAILED
+	Original handCount == 82
+	New handCount == 86
+TEST 747: num cards in hand +2: FAILED
+	Original handCount == 308
+	New handCount == 312
+TEST 748: num cards in hand +2: FAILED
+	Original handCount == 5
+	New handCount == 9
+TEST 749: num cards in hand +2: FAILED
+	Original handCount == 52
+	New handCount == 56
+TEST 750: num cards in hand +2: FAILED
+	Original handCount == 285
+	New handCount == 289
+TEST 751: num cards in hand +2: FAILED
+	Original handCount == 462
+	New handCount == 466
+TEST 752: num cards in hand +2: FAILED
+	Original handCount == 229
+	New handCount == 233
+TEST 753: num cards in hand +2: FAILED
+	Original handCount == 471
+	New handCount == 475
+TEST 754: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 755: num cards in hand +2: FAILED
+	Original handCount == 480
+	New handCount == 484
+TEST 756: num cards in hand +2: FAILED
+	Original handCount == 43
+	New handCount == 47
+TEST 757: num cards in hand +2: FAILED
+	Original handCount == 329
+	New handCount == 333
+TEST 758: num cards in hand +2: FAILED
+	Original handCount == 9
+	New handCount == 13
+TEST 759: num cards in hand +2: FAILED
+	Original handCount == 420
+	New handCount == 424
+TEST 760: num cards in hand +2: FAILED
+	Original handCount == 216
+	New handCount == 220
+TEST 761: num cards in hand +2: FAILED
+	Original handCount == 134
+	New handCount == 138
+TEST 762: num cards in hand +2: FAILED
+	Original handCount == 347
+	New handCount == 351
+TEST 763: num cards in hand +2: FAILED
+	Original handCount == 404
+	New handCount == 408
+TEST 764: num cards in hand +2: FAILED
+	Original handCount == 417
+	New handCount == 421
+TEST 765: num cards in hand +2: FAILED
+	Original handCount == 353
+	New handCount == 357
+TEST 766: num cards in hand +2: FAILED
+	Original handCount == 218
+	New handCount == 222
+TEST 767: num cards in hand +2: FAILED
+	Original handCount == 213
+	New handCount == 217
+TEST 768: num cards in hand +2: FAILED
+	Original handCount == 226
+	New handCount == 230
+TEST 769: num cards in hand +2: FAILED
+	Original handCount == 363
+	New handCount == 367
+TEST 770: num cards in hand +2: FAILED
+	Original handCount == 392
+	New handCount == 396
+TEST 771: num cards in hand +2: FAILED
+	Original handCount == 171
+	New handCount == 175
+TEST 772: num cards in hand +2: FAILED
+	Original handCount == 241
+	New handCount == 245
+TEST 773: num cards in hand +2: FAILED
+	Original handCount == 135
+	New handCount == 139
+TEST 774: num cards in hand +2: FAILED
+	Original handCount == 403
+	New handCount == 407
+TEST 775: num cards in hand +2: FAILED
+	Original handCount == 117
+	New handCount == 121
+TEST 776: num cards in hand +2: FAILED
+	Original handCount == 353
+	New handCount == 357
+TEST 777: num cards in hand +2: FAILED
+	Original handCount == 137
+	New handCount == 141
+TEST 778: num cards in hand +2: FAILED
+	Original handCount == 103
+	New handCount == 107
+TEST 779: num cards in hand +2: FAILED
+	Original handCount == 206
+	New handCount == 210
+TEST 780: num cards in hand +2: FAILED
+	Original handCount == 211
+	New handCount == 215
+TEST 781: num cards in hand +2: FAILED
+	Original handCount == 95
+	New handCount == 99
+TEST 782: num cards in hand +2: FAILED
+	Original handCount == 339
+	New handCount == 343
+TEST 783: num cards in hand +2: FAILED
+	Original handCount == 145
+	New handCount == 149
+TEST 784: num cards in hand +2: FAILED
+	Original handCount == 89
+	New handCount == 93
+TEST 785: num cards in hand +2: FAILED
+	Original handCount == 284
+	New handCount == 288
+TEST 786: num cards in hand +2: FAILED
+	Original handCount == 365
+	New handCount == 369
+TEST 787: num cards in hand +2: FAILED
+	Original handCount == 18
+	New handCount == 22
+TEST 788: num cards in hand +2: FAILED
+	Original handCount == 61
+	New handCount == 65
+TEST 789: num cards in hand +2: FAILED
+	Original handCount == 368
+	New handCount == 372
+TEST 790: num cards in hand +2: FAILED
+	Original handCount == 475
+	New handCount == 479
+TEST 791: num cards in hand +2: FAILED
+	Original handCount == 65
+	New handCount == 69
+TEST 792: num cards in hand +2: FAILED
+	Original handCount == 318
+	New handCount == 322
+TEST 793: num cards in hand +2: FAILED
+	Original handCount == 401
+	New handCount == 405
+TEST 794: num cards in hand +2: FAILED
+	Original handCount == 23
+	New handCount == 27
+TEST 795: num cards in hand +2: FAILED
+	Original handCount == 32
+	New handCount == 36
+TEST 796: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 797: num cards in hand +2: FAILED
+	Original handCount == 74
+	New handCount == 78
+TEST 798: num cards in hand +2: FAILED
+	Original handCount == 498
+	New handCount == 502
+TEST 799: num cards in hand +2: FAILED
+	Original handCount == 401
+	New handCount == 405
+TEST 800: num cards in hand +2: FAILED
+	Original handCount == 279
+	New handCount == 283
+TEST 801: num cards in hand +2: FAILED
+	Original handCount == 449
+	New handCount == 453
+TEST 802: num cards in hand +2: FAILED
+	Original handCount == 427
+	New handCount == 431
+TEST 803: num cards in hand +2: FAILED
+	Original handCount == 13
+	New handCount == 17
+TEST 804: num cards in hand +2: FAILED
+	Original handCount == 488
+	New handCount == 492
+TEST 805: num cards in hand +2: FAILED
+	Original handCount == 245
+	New handCount == 249
+TEST 806: num cards in hand +2: FAILED
+	Original handCount == 433
+	New handCount == 437
+TEST 807: num cards in hand +2: FAILED
+	Original handCount == 62
+	New handCount == 66
+TEST 808: num cards in hand +2: FAILED
+	Original handCount == 393
+	New handCount == 397
+TEST 809: num cards in hand +2: FAILED
+	Original handCount == 418
+	New handCount == 422
+TEST 810: num cards in hand +2: FAILED
+	Original handCount == 226
+	New handCount == 230
+TEST 811: num cards in hand +2: FAILED
+	Original handCount == 413
+	New handCount == 417
+TEST 812: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 813: num cards in hand +2: FAILED
+	Original handCount == 493
+	New handCount == 497
+TEST 814: num cards in hand +2: FAILED
+	Original handCount == 222
+	New handCount == 226
+TEST 815: num cards in hand +2: FAILED
+	Original handCount == 49
+	New handCount == 53
+TEST 816: num cards in hand +2: FAILED
+	Original handCount == 207
+	New handCount == 211
+TEST 817: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 818: num cards in hand +2: FAILED
+	Original handCount == 233
+	New handCount == 237
+TEST 819: num cards in hand +2: FAILED
+	Original handCount == 489
+	New handCount == 493
+TEST 820: num cards in hand +2: FAILED
+	Original handCount == 99
+	New handCount == 103
+TEST 821: num cards in hand +2: FAILED
+	Original handCount == 387
+	New handCount == 391
+TEST 822: num cards in hand +2: FAILED
+	Original handCount == 6
+	New handCount == 10
+TEST 823: num cards in hand +2: FAILED
+	Original handCount == 102
+	New handCount == 106
+TEST 824: num cards in hand +2: FAILED
+	Original handCount == 285
+	New handCount == 289
+TEST 825: num cards in hand +2: FAILED
+	Original handCount == 479
+	New handCount == 483
+TEST 826: num cards in hand +2: FAILED
+	Original handCount == 366
+	New handCount == 370
+TEST 827: num cards in hand +2: FAILED
+	Original handCount == 365
+	New handCount == 369
+TEST 828: num cards in hand +2: FAILED
+	Original handCount == 452
+	New handCount == 456
+TEST 829: num cards in hand +2: FAILED
+	Original handCount == 142
+	New handCount == 146
+TEST 830: num cards in hand +2: FAILED
+	Original handCount == 298
+	New handCount == 302
+TEST 831: num cards in hand +2: FAILED
+	Original handCount == 362
+	New handCount == 366
+TEST 832: num cards in hand +2: FAILED
+	Original handCount == 215
+	New handCount == 219
+TEST 833: num cards in hand +2: FAILED
+	Original handCount == 272
+	New handCount == 276
+TEST 834: num cards in hand +2: FAILED
+	Original handCount == 152
+	New handCount == 156
+TEST 835: num cards in hand +2: FAILED
+	Original handCount == 307
+	New handCount == 311
+TEST 836: num cards in hand +2: FAILED
+	Original handCount == 97
+	New handCount == 101
+TEST 837: num cards in hand +2: FAILED
+	Original handCount == 416
+	New handCount == 420
+TEST 838: num cards in hand +2: FAILED
+	Original handCount == 356
+	New handCount == 360
+TEST 839: num cards in hand +2: FAILED
+	Original handCount == 287
+	New handCount == 291
+TEST 840: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 841: num cards in hand +2: FAILED
+	Original handCount == 10
+	New handCount == 14
+TEST 842: num cards in hand +2: FAILED
+	Original handCount == 11
+	New handCount == 15
+TEST 843: num cards in hand +2: FAILED
+	Original handCount == 174
+	New handCount == 178
+TEST 844: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 845: num cards in hand +2: FAILED
+	Original handCount == 344
+	New handCount == 348
+TEST 846: num cards in hand +2: FAILED
+	Original handCount == 317
+	New handCount == 321
+TEST 847: num cards in hand +2: FAILED
+	Original handCount == 407
+	New handCount == 411
+TEST 848: num cards in hand +2: FAILED
+	Original handCount == 413
+	New handCount == 417
+TEST 849: num cards in hand +2: FAILED
+	Original handCount == 244
+	New handCount == 248
+TEST 850: num cards in hand +2: FAILED
+	Original handCount == 135
+	New handCount == 139
+TEST 851: num cards in hand +2: FAILED
+	Original handCount == 414
+	New handCount == 418
+TEST 852: num cards in hand +2: FAILED
+	Original handCount == 458
+	New handCount == 462
+TEST 853: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 854: num cards in hand +2: FAILED
+	Original handCount == 104
+	New handCount == 108
+TEST 855: num cards in hand +2: FAILED
+	Original handCount == 233
+	New handCount == 237
+TEST 856: num cards in hand +2: FAILED
+	Original handCount == 44
+	New handCount == 48
+TEST 857: num cards in hand +2: FAILED
+	Original handCount == 285
+	New handCount == 289
+TEST 858: num cards in hand +2: FAILED
+	Original handCount == 298
+	New handCount == 302
+TEST 859: num cards in hand +2: FAILED
+	Original handCount == 252
+	New handCount == 256
+TEST 860: num cards in hand +2: FAILED
+	Original handCount == 353
+	New handCount == 357
+TEST 861: num cards in hand +2: FAILED
+	Original handCount == 292
+	New handCount == 296
+TEST 862: num cards in hand +2: FAILED
+	Original handCount == 312
+	New handCount == 316
+TEST 863: num cards in hand +2: FAILED
+	Original handCount == 10
+	New handCount == 14
+TEST 864: num cards in hand +2: FAILED
+	Original handCount == 251
+	New handCount == 255
+TEST 865: num cards in hand +2: FAILED
+	Original handCount == 135
+	New handCount == 139
+TEST 866: num cards in hand +2: FAILED
+	Original handCount == 436
+	New handCount == 440
+TEST 867: num cards in hand +2: FAILED
+	Original handCount == 235
+	New handCount == 239
+TEST 868: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 869: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 870: num cards in hand +2: FAILED
+	Original handCount == 465
+	New handCount == 469
+TEST 871: num cards in hand +2: FAILED
+	Original handCount == 7
+	New handCount == 11
+TEST 872: num cards in hand +2: FAILED
+	Original handCount == 299
+	New handCount == 303
+TEST 873: num cards in hand +2: FAILED
+	Original handCount == 464
+	New handCount == 468
+TEST 874: num cards in hand +2: FAILED
+	Original handCount == 76
+	New handCount == 80
+TEST 875: num cards in hand +2: FAILED
+	Original handCount == 151
+	New handCount == 155
+TEST 876: num cards in hand +2: FAILED
+	Original handCount == 418
+	New handCount == 422
+TEST 877: num cards in hand +2: FAILED
+	Original handCount == 91
+	New handCount == 95
+TEST 878: num cards in hand +2: FAILED
+	Original handCount == 105
+	New handCount == 109
+TEST 879: num cards in hand +2: FAILED
+	Original handCount == 4
+	New handCount == 8
+TEST 880: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 881: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 882: num cards in hand +2: FAILED
+	Original handCount == 35
+	New handCount == 39
+TEST 883: num cards in hand +2: FAILED
+	Original handCount == 100
+	New handCount == 104
+TEST 884: num cards in hand +2: FAILED
+	Original handCount == 487
+	New handCount == 491
+TEST 885: num cards in hand +2: FAILED
+	Original handCount == 397
+	New handCount == 401
+TEST 886: num cards in hand +2: FAILED
+	Original handCount == 192
+	New handCount == 196
+TEST 887: num cards in hand +2: FAILED
+	Original handCount == 330
+	New handCount == 334
+TEST 888: num cards in hand +2: FAILED
+	Original handCount == 2
+	New handCount == 6
+TEST 889: num cards in hand +2: FAILED
+	Original handCount == 426
+	New handCount == 430
+TEST 890: num cards in hand +2: FAILED
+	Original handCount == 319
+	New handCount == 323
+TEST 891: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 892: num cards in hand +2: FAILED
+	Original handCount == 277
+	New handCount == 281
+TEST 893: num cards in hand +2: FAILED
+	Original handCount == 387
+	New handCount == 391
+TEST 894: num cards in hand +2: FAILED
+	Original handCount == 8
+	New handCount == 12
+TEST 895: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 896: num cards in hand +2: FAILED
+	Original handCount == 487
+	New handCount == 491
+TEST 897: num cards in hand +2: FAILED
+	Original handCount == 259
+	New handCount == 263
+TEST 898: num cards in hand +2: FAILED
+	Original handCount == 82
+	New handCount == 86
+TEST 899: num cards in hand +2: FAILED
+	Original handCount == 144
+	New handCount == 148
+TEST 900: num cards in hand +2: FAILED
+	Original handCount == 121
+	New handCount == 125
+TEST 901: num cards in hand +2: FAILED
+	Original handCount == 37
+	New handCount == 41
+TEST 902: num cards in hand +2: FAILED
+	Original handCount == 369
+	New handCount == 373
+TEST 903: num cards in hand +2: FAILED
+	Original handCount == 378
+	New handCount == 382
+TEST 904: num cards in hand +2: FAILED
+	Original handCount == 401
+	New handCount == 405
+TEST 905: num cards in hand +2: FAILED
+	Original handCount == 430
+	New handCount == 434
+TEST 906: num cards in hand +2: FAILED
+	Original handCount == 215
+	New handCount == 219
+TEST 907: num cards in hand +2: FAILED
+	Original handCount == 330
+	New handCount == 334
+TEST 908: num cards in hand +2: FAILED
+	Original handCount == 47
+	New handCount == 51
+TEST 909: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 910: num cards in hand +2: FAILED
+	Original handCount == 76
+	New handCount == 80
+TEST 911: num cards in hand +2: FAILED
+	Original handCount == 203
+	New handCount == 207
+TEST 912: num cards in hand +2: FAILED
+	Original handCount == 495
+	New handCount == 499
+TEST 913: num cards in hand +2: FAILED
+	Original handCount == 26
+	New handCount == 30
+TEST 914: num cards in hand +2: FAILED
+	Original handCount == 19
+	New handCount == 23
+TEST 915: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 916: num cards in hand +2: FAILED
+	Original handCount == 448
+	New handCount == 452
+TEST 917: num cards in hand +2: FAILED
+	Original handCount == 30
+	New handCount == 34
+TEST 918: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 919: num cards in hand +2: FAILED
+	Original handCount == 51
+	New handCount == 55
+TEST 920: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 921: num cards in hand +2: FAILED
+	Original handCount == 181
+	New handCount == 185
+TEST 922: num cards in hand +2: FAILED
+	Original handCount == 209
+	New handCount == 213
+TEST 923: num cards in hand +2: FAILED
+	Original handCount == 473
+	New handCount == 477
+TEST 924: num cards in hand +2: FAILED
+	Original handCount == 483
+	New handCount == 487
+TEST 925: num cards in hand +2: FAILED
+	Original handCount == 298
+	New handCount == 302
+TEST 926: num cards in hand +2: FAILED
+	Original handCount == 134
+	New handCount == 138
+TEST 927: num cards in hand +2: FAILED
+	Original handCount == 74
+	New handCount == 78
+TEST 928: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 929: num cards in hand +2: FAILED
+	Original handCount == 464
+	New handCount == 468
+TEST 930: num cards in hand +2: FAILED
+	Original handCount == 425
+	New handCount == 429
+TEST 931: num cards in hand +2: FAILED
+	Original handCount == 449
+	New handCount == 453
+TEST 932: num cards in hand +2: FAILED
+	Original handCount == 275
+	New handCount == 279
+TEST 933: num cards in hand +2: FAILED
+	Original handCount == 234
+	New handCount == 238
+TEST 934: num cards in hand +2: FAILED
+	Original handCount == 450
+	New handCount == 454
+TEST 935: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 936: num cards in hand +2: FAILED
+	Original handCount == 100
+	New handCount == 104
+TEST 937: num cards in hand +2: FAILED
+	Original handCount == 355
+	New handCount == 359
+TEST 938: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 939: num cards in hand +2: FAILED
+	Original handCount == 462
+	New handCount == 466
+TEST 940: num cards in hand +2: FAILED
+	Original handCount == 401
+	New handCount == 405
+TEST 941: num cards in hand +2: FAILED
+	Original handCount == 408
+	New handCount == 412
+TEST 942: num cards in hand +2: FAILED
+	Original handCount == 339
+	New handCount == 343
+TEST 943: num cards in hand +2: FAILED
+	Original handCount == 117
+	New handCount == 121
+TEST 944: num cards in hand +2: FAILED
+	Original handCount == 226
+	New handCount == 230
+TEST 945: num cards in hand +2: FAILED
+	Original handCount == 410
+	New handCount == 414
+TEST 946: num cards in hand +2: FAILED
+	Original handCount == 436
+	New handCount == 440
+TEST 947: num cards in hand +2: FAILED
+	Original handCount == 187
+	New handCount == 191
+TEST 948: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 949: num cards in hand +2: FAILED
+	Original handCount == 359
+	New handCount == 363
+TEST 950: num cards in hand +2: FAILED
+	Original handCount == 460
+	New handCount == 464
+TEST 951: num cards in hand +2: FAILED
+	Original handCount == 380
+	New handCount == 384
+TEST 952: num cards in hand +2: FAILED
+	Original handCount == 84
+	New handCount == 88
+TEST 953: num cards in hand +2: FAILED
+	Original handCount == 476
+	New handCount == 480
+TEST 954: num cards in hand +2: FAILED
+	Original handCount == 267
+	New handCount == 271
+TEST 955: num cards in hand +2: FAILED
+	Original handCount == 4
+	New handCount == 8
+TEST 956: num cards in hand +2: FAILED
+	Original handCount == 318
+	New handCount == 322
+TEST 957: num cards in hand +2: FAILED
+	Original handCount == 281
+	New handCount == 285
+TEST 958: num cards in hand +2: FAILED
+	Original handCount == 331
+	New handCount == 335
+TEST 959: num cards in hand +2: FAILED
+	Original handCount == 187
+	New handCount == 191
+TEST 960: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 961: num cards in hand +2: FAILED
+	Original handCount == 391
+	New handCount == 395
+TEST 962: num cards in hand +2: FAILED
+	Original handCount == 15
+	New handCount == 19
+TEST 963: num cards in hand +2: FAILED
+	Original handCount == 258
+	New handCount == 262
+TEST 964: num cards in hand +2: FAILED
+	Original handCount == 218
+	New handCount == 222
+TEST 965: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 966: num cards in hand +2: FAILED
+	Original handCount == 145
+	New handCount == 149
+TEST 967: num cards in hand +2: FAILED
+	Original handCount == 281
+	New handCount == 285
+TEST 968: num cards in hand +2: FAILED
+	Original handCount == 175
+	New handCount == 179
+TEST 969: num cards in hand +2: FAILED
+	Original handCount == 292
+	New handCount == 296
+TEST 970: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 971: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 972: num cards in hand +2: FAILED
+	Original handCount == 421
+	New handCount == 425
+TEST 973: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 974: num cards in hand +2: FAILED
+	Original handCount == 484
+	New handCount == 488
+TEST 975: num cards in hand +2: FAILED
+	Original handCount == 381
+	New handCount == 385
+TEST 976: num cards in hand +2: FAILED
+	Original handCount == 73
+	New handCount == 77
+TEST 977: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 978: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 979: num cards in hand +2: FAILED
+	Original handCount == 333
+	New handCount == 337
+TEST 980: num cards in hand +2: FAILED
+	Original handCount == 85
+	New handCount == 89
+TEST 981: num cards in hand +2: FAILED
+	Original handCount == 400
+	New handCount == 404
+TEST 982: num cards in hand +2: FAILED
+	Original handCount == 440
+	New handCount == 444
+TEST 983: num cards in hand +2: FAILED
+	Original handCount == 65
+	New handCount == 69
+TEST 984: num cards in hand +2: FAILED
+	Original handCount == 179
+	New handCount == 183
+TEST 985: num cards in hand +2: FAILED
+	Original handCount == 199
+	New handCount == 203
+TEST 986: num cards in hand +2: FAILED
+	Original handCount == 394
+	New handCount == 398
+TEST 987: num cards in hand +2: FAILED
+	Original handCount == 280
+	New handCount == 284
+TEST 988: num cards in hand +2: FAILED
+	Original handCount == 154
+	New handCount == 158
+TEST 989: num cards in hand +2: FAILED
+	Original handCount == 489
+	New handCount == 493
+TEST 990: num cards in hand +2: FAILED
+	Original handCount == 406
+	New handCount == 410
+TEST 991: num cards in hand +2: FAILED
+	Original handCount == 482
+	New handCount == 486
+TEST 992: num cards in hand +2: FAILED
+	Original handCount == 488
+	New handCount == 492
+TEST 993: num cards in hand +2: FAILED
+	Original handCount == 241
+	New handCount == 245
+TEST 994: num cards in hand +2: FAILED
+	Original handCount == 462
+	New handCount == 466
+TEST 995: num cards in hand +2: FAILED
+	Original handCount == 407
+	New handCount == 411
+TEST 996: num cards in hand +2: FAILED
+	Original handCount == 186
+	New handCount == 190
+TEST 997: num cards in hand +2: FAILED
+	Original handCount == 494
+	New handCount == 498
+TEST 998: num cards in hand +2: FAILED
+	Original handCount == 172
+	New handCount == 176
+TEST 999: num cards in hand +2: FAILED
+	Original handCount == 197
+	New handCount == 201
+TEST 1000: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 1001: num cards in hand +2: FAILED
+	Original handCount == 286
+	New handCount == 290
+TEST 1002: num cards in hand +2: FAILED
+	Original handCount == 382
+	New handCount == 386
+TEST 1003: num cards in hand +2: FAILED
+	Original handCount == 24
+	New handCount == 28
+TEST 1004: num cards in hand +2: FAILED
+	Original handCount == 476
+	New handCount == 480
+TEST 1005: num cards in hand +2: FAILED
+	Original handCount == 120
+	New handCount == 124
+TEST 1006: num cards in hand +2: FAILED
+	Original handCount == 74
+	New handCount == 78
+TEST 1007: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 1008: num cards in hand +2: FAILED
+	Original handCount == 11
+	New handCount == 15
+TEST 1009: num cards in hand +2: FAILED
+	Original handCount == 473
+	New handCount == 477
+TEST 1010: num cards in hand +2: FAILED
+	Original handCount == 2
+	New handCount == 6
+TEST 1011: num cards in hand +2: FAILED
+	Original handCount == 177
+	New handCount == 181
+TEST 1012: num cards in hand +2: FAILED
+	Original handCount == 431
+	New handCount == 435
+TEST 1013: num cards in hand +2: FAILED
+	Original handCount == 375
+	New handCount == 379
+TEST 1014: num cards in hand +2: FAILED
+	Original handCount == 441
+	New handCount == 445
+TEST 1015: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 1016: num cards in hand +2: FAILED
+	Original handCount == 54
+	New handCount == 58
+TEST 1017: num cards in hand +2: FAILED
+	Original handCount == 273
+	New handCount == 277
+TEST 1018: num cards in hand +2: FAILED
+	Original handCount == 169
+	New handCount == 173
+TEST 1019: num cards in hand +2: FAILED
+	Original handCount == 417
+	New handCount == 421
+TEST 1020: num cards in hand +2: FAILED
+	Original handCount == 78
+	New handCount == 82
+TEST 1021: num cards in hand +2: FAILED
+	Original handCount == 459
+	New handCount == 463
+TEST 1022: num cards in hand +2: FAILED
+	Original handCount == 17
+	New handCount == 21
+TEST 1023: num cards in hand +2: FAILED
+	Original handCount == 14
+	New handCount == 18
+TEST 1024: num cards in hand +2: FAILED
+	Original handCount == 15
+	New handCount == 19
+TEST 1025: num cards in hand +2: FAILED
+	Original handCount == 197
+	New handCount == 201
+TEST 1026: num cards in hand +2: FAILED
+	Original handCount == 41
+	New handCount == 45
+TEST 1027: num cards in hand +2: FAILED
+	Original handCount == 390
+	New handCount == 394
+TEST 1028: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 1029: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 1030: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 1031: num cards in hand +2: FAILED
+	Original handCount == 416
+	New handCount == 420
+TEST 1032: num cards in hand +2: FAILED
+	Original handCount == 485
+	New handCount == 489
+TEST 1033: num cards in hand +2: FAILED
+	Original handCount == 297
+	New handCount == 301
+TEST 1034: num cards in hand +2: FAILED
+	Original handCount == 245
+	New handCount == 249
+TEST 1035: num cards in hand +2: FAILED
+	Original handCount == 451
+	New handCount == 455
+TEST 1036: num cards in hand +2: FAILED
+	Original handCount == 68
+	New handCount == 72
+TEST 1037: num cards in hand +2: FAILED
+	Original handCount == 330
+	New handCount == 334
+TEST 1038: num cards in hand +2: FAILED
+	Original handCount == 463
+	New handCount == 467
+TEST 1039: num cards in hand +2: FAILED
+	Original handCount == 465
+	New handCount == 469
+TEST 1040: num cards in hand +2: FAILED
+	Original handCount == 282
+	New handCount == 286
+TEST 1041: num cards in hand +2: FAILED
+	Original handCount == 181
+	New handCount == 185
+TEST 1042: num cards in hand +2: FAILED
+	Original handCount == 303
+	New handCount == 307
+TEST 1043: num cards in hand +2: FAILED
+	Original handCount == 349
+	New handCount == 353
+TEST 1044: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 1045: num cards in hand +2: FAILED
+	Original handCount == 71
+	New handCount == 75
+TEST 1046: num cards in hand +2: FAILED
+	Original handCount == 285
+	New handCount == 289
+TEST 1047: num cards in hand +2: FAILED
+	Original handCount == 283
+	New handCount == 287
+TEST 1048: num cards in hand +2: FAILED
+	Original handCount == 205
+	New handCount == 209
+TEST 1049: num cards in hand +2: FAILED
+	Original handCount == 99
+	New handCount == 103
+TEST 1050: num cards in hand +2: FAILED
+	Original handCount == 119
+	New handCount == 123
+TEST 1051: num cards in hand +2: FAILED
+	Original handCount == 3
+	New handCount == 7
+TEST 1052: num cards in hand +2: FAILED
+	Original handCount == 112
+	New handCount == 116
+TEST 1053: num cards in hand +2: FAILED
+	Original handCount == 448
+	New handCount == 452
+TEST 1054: num cards in hand +2: FAILED
+	Original handCount == 397
+	New handCount == 401
+TEST 1055: num cards in hand +2: FAILED
+	Original handCount == 160
+	New handCount == 164
+TEST 1056: num cards in hand +2: FAILED
+	Original handCount == 75
+	New handCount == 79
+TEST 1057: num cards in hand +2: FAILED
+	Original handCount == 312
+	New handCount == 316
+TEST 1058: num cards in hand +2: FAILED
+	Original handCount == 400
+	New handCount == 404
+TEST 1059: num cards in hand +2: FAILED
+	Original handCount == 142
+	New handCount == 146
+TEST 1060: num cards in hand +2: FAILED
+	Original handCount == 326
+	New handCount == 330
+TEST 1061: num cards in hand +2: FAILED
+	Original handCount == 412
+	New handCount == 416
+TEST 1062: num cards in hand +2: FAILED
+	Original handCount == 292
+	New handCount == 296
+TEST 1063: num cards in hand +2: FAILED
+	Original handCount == 309
+	New handCount == 313
+TEST 1064: num cards in hand +2: FAILED
+	Original handCount == 499
+	New handCount == 503
+TEST 1065: num cards in hand +2: FAILED
+	Original handCount == 57
+	New handCount == 61
+TEST 1066: num cards in hand +2: FAILED
+	Original handCount == 107
+	New handCount == 111
+TEST 1067: num cards in hand +2: FAILED
+	Original handCount == 72
+	New handCount == 76
+TEST 1068: num cards in hand +2: FAILED
+	Original handCount == 421
+	New handCount == 425
+TEST 1069: num cards in hand +2: FAILED
+	Original handCount == 257
+	New handCount == 261
+TEST 1070: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 1071: num cards in hand +2: FAILED
+	Original handCount == 58
+	New handCount == 62
+TEST 1072: num cards in hand +2: FAILED
+	Original handCount == 101
+	New handCount == 105
+TEST 1073: num cards in hand +2: FAILED
+	Original handCount == 131
+	New handCount == 135
+TEST 1074: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 1075: num cards in hand +2: FAILED
+	Original handCount == 401
+	New handCount == 405
+TEST 1076: num cards in hand +2: FAILED
+	Original handCount == 364
+	New handCount == 368
+TEST 1077: num cards in hand +2: FAILED
+	Original handCount == 478
+	New handCount == 482
+TEST 1078: num cards in hand +2: FAILED
+	Original handCount == 239
+	New handCount == 243
+TEST 1079: num cards in hand +2: FAILED
+	Original handCount == 495
+	New handCount == 499
+TEST 1080: num cards in hand +2: FAILED
+	Original handCount == 493
+	New handCount == 497
+TEST 1081: num cards in hand +2: FAILED
+	Original handCount == 127
+	New handCount == 131
+TEST 1082: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 1083: num cards in hand +2: FAILED
+	Original handCount == 380
+	New handCount == 384
+TEST 1084: num cards in hand +2: FAILED
+	Original handCount == 83
+	New handCount == 87
+TEST 1085: num cards in hand +2: FAILED
+	Original handCount == 275
+	New handCount == 279
+TEST 1086: num cards in hand +2: FAILED
+	Original handCount == 50
+	New handCount == 54
+TEST 1087: num cards in hand +2: FAILED
+	Original handCount == 172
+	New handCount == 176
+TEST 1088: num cards in hand +2: FAILED
+	Original handCount == 214
+	New handCount == 218
+TEST 1089: num cards in hand +2: FAILED
+	Original handCount == 305
+	New handCount == 309
+TEST 1090: num cards in hand +2: FAILED
+	Original handCount == 486
+	New handCount == 490
+TEST 1091: num cards in hand +2: FAILED
+	Original handCount == 445
+	New handCount == 449
+TEST 1092: num cards in hand +2: FAILED
+	Original handCount == 155
+	New handCount == 159
+TEST 1093: num cards in hand +2: FAILED
+	Original handCount == 276
+	New handCount == 280
+TEST 1094: num cards in hand +2: FAILED
+	Original handCount == 394
+	New handCount == 398
+TEST 1095: num cards in hand +2: FAILED
+	Original handCount == 386
+	New handCount == 390
+TEST 1096: num cards in hand +2: FAILED
+	Original handCount == 465
+	New handCount == 469
+TEST 1097: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 1098: num cards in hand +2: FAILED
+	Original handCount == 71
+	New handCount == 75
+TEST 1099: num cards in hand +2: FAILED
+	Original handCount == 115
+	New handCount == 119
+TEST 1100: num cards in hand +2: FAILED
+	Original handCount == 224
+	New handCount == 228
+TEST 1101: num cards in hand +2: FAILED
+	Original handCount == 288
+	New handCount == 292
+TEST 1102: num cards in hand +2: FAILED
+	Original handCount == 11
+	New handCount == 15
+TEST 1103: num cards in hand +2: FAILED
+	Original handCount == 347
+	New handCount == 351
+TEST 1104: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 1105: num cards in hand +2: FAILED
+	Original handCount == 326
+	New handCount == 330
+TEST 1106: num cards in hand +2: FAILED
+	Original handCount == 31
+	New handCount == 35
+TEST 1107: num cards in hand +2: FAILED
+	Original handCount == 27
+	New handCount == 31
+TEST 1108: num cards in hand +2: FAILED
+	Original handCount == 310
+	New handCount == 314
+TEST 1109: num cards in hand +2: FAILED
+	Original handCount == 343
+	New handCount == 347
+TEST 1110: num cards in hand +2: FAILED
+	Original handCount == 363
+	New handCount == 367
+TEST 1111: num cards in hand +2: FAILED
+	Original handCount == 443
+	New handCount == 447
+TEST 1112: num cards in hand +2: FAILED
+	Original handCount == 47
+	New handCount == 51
+TEST 1113: num cards in hand +2: FAILED
+	Original handCount == 35
+	New handCount == 39
+TEST 1114: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 1115: num cards in hand +2: FAILED
+	Original handCount == 72
+	New handCount == 76
+TEST 1116: num cards in hand +2: FAILED
+	Original handCount == 346
+	New handCount == 350
+TEST 1117: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 1118: num cards in hand +2: FAILED
+	Original handCount == 440
+	New handCount == 444
+TEST 1119: num cards in hand +2: FAILED
+	Original handCount == 180
+	New handCount == 184
+TEST 1120: num cards in hand +2: FAILED
+	Original handCount == 308
+	New handCount == 312
+TEST 1121: num cards in hand +2: FAILED
+	Original handCount == 253
+	New handCount == 257
+TEST 1122: num cards in hand +2: FAILED
+	Original handCount == 199
+	New handCount == 203
+TEST 1123: num cards in hand +2: FAILED
+	Original handCount == 242
+	New handCount == 246
+TEST 1124: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 1125: num cards in hand +2: FAILED
+	Original handCount == 63
+	New handCount == 67
+TEST 1126: num cards in hand +2: FAILED
+	Original handCount == 255
+	New handCount == 259
+TEST 1127: num cards in hand +2: FAILED
+	Original handCount == 301
+	New handCount == 305
+TEST 1128: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 1129: num cards in hand +2: FAILED
+	Original handCount == 17
+	New handCount == 21
+TEST 1130: num cards in hand +2: FAILED
+	Original handCount == 146
+	New handCount == 150
+TEST 1131: num cards in hand +2: FAILED
+	Original handCount == 331
+	New handCount == 335
+TEST 1132: num cards in hand +2: FAILED
+	Original handCount == 26
+	New handCount == 30
+TEST 1133: num cards in hand +2: FAILED
+	Original handCount == 63
+	New handCount == 67
+TEST 1134: num cards in hand +2: FAILED
+	Original handCount == 266
+	New handCount == 270
+TEST 1135: num cards in hand +2: FAILED
+	Original handCount == 297
+	New handCount == 301
+TEST 1136: num cards in hand +2: FAILED
+	Original handCount == 32
+	New handCount == 36
+TEST 1137: num cards in hand +2: FAILED
+	Original handCount == 261
+	New handCount == 265
+TEST 1138: num cards in hand +2: FAILED
+	Original handCount == 123
+	New handCount == 127
+TEST 1139: num cards in hand +2: FAILED
+	Original handCount == 174
+	New handCount == 178
+TEST 1140: num cards in hand +2: FAILED
+	Original handCount == 141
+	New handCount == 145
+TEST 1141: num cards in hand +2: FAILED
+	Original handCount == 436
+	New handCount == 440
+TEST 1142: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 1143: num cards in hand +2: FAILED
+	Original handCount == 306
+	New handCount == 310
+TEST 1144: num cards in hand +2: FAILED
+	Original handCount == 482
+	New handCount == 486
+TEST 1145: num cards in hand +2: FAILED
+	Original handCount == 405
+	New handCount == 409
+TEST 1146: num cards in hand +2: FAILED
+	Original handCount == 263
+	New handCount == 267
+TEST 1147: num cards in hand +2: FAILED
+	Original handCount == 132
+	New handCount == 136
+TEST 1148: num cards in hand +2: FAILED
+	Original handCount == 230
+	New handCount == 234
+TEST 1149: num cards in hand +2: FAILED
+	Original handCount == 387
+	New handCount == 391
+TEST 1150: num cards in hand +2: FAILED
+	Original handCount == 430
+	New handCount == 434
+TEST 1151: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 1152: num cards in hand +2: FAILED
+	Original handCount == 465
+	New handCount == 469
+TEST 1153: num cards in hand +2: FAILED
+	Original handCount == 259
+	New handCount == 263
+TEST 1154: num cards in hand +2: FAILED
+	Original handCount == 427
+	New handCount == 431
+TEST 1155: num cards in hand +2: FAILED
+	Original handCount == 218
+	New handCount == 222
+TEST 1156: num cards in hand +2: FAILED
+	Original handCount == 310
+	New handCount == 314
+TEST 1157: num cards in hand +2: FAILED
+	Original handCount == 279
+	New handCount == 283
+TEST 1158: num cards in hand +2: FAILED
+	Original handCount == 446
+	New handCount == 450
+TEST 1159: num cards in hand +2: FAILED
+	Original handCount == 222
+	New handCount == 226
+TEST 1160: num cards in hand +2: FAILED
+	Original handCount == 33
+	New handCount == 37
+TEST 1161: num cards in hand +2: FAILED
+	Original handCount == 439
+	New handCount == 443
+TEST 1162: num cards in hand +2: FAILED
+	Original handCount == 227
+	New handCount == 231
+TEST 1163: num cards in hand +2: FAILED
+	Original handCount == 403
+	New handCount == 407
+TEST 1164: num cards in hand +2: FAILED
+	Original handCount == 353
+	New handCount == 357
+TEST 1165: num cards in hand +2: FAILED
+	Original handCount == 261
+	New handCount == 265
+TEST 1166: num cards in hand +2: FAILED
+	Original handCount == 421
+	New handCount == 425
+TEST 1167: num cards in hand +2: FAILED
+	Original handCount == 175
+	New handCount == 179
+TEST 1168: num cards in hand +2: FAILED
+	Original handCount == 174
+	New handCount == 178
+TEST 1169: num cards in hand +2: FAILED
+	Original handCount == 395
+	New handCount == 399
+TEST 1170: num cards in hand +2: FAILED
+	Original handCount == 128
+	New handCount == 132
+TEST 1171: num cards in hand +2: FAILED
+	Original handCount == 106
+	New handCount == 110
+TEST 1172: num cards in hand +2: FAILED
+	Original handCount == 254
+	New handCount == 258
+TEST 1173: num cards in hand +2: FAILED
+	Original handCount == 337
+	New handCount == 341
+TEST 1174: num cards in hand +2: FAILED
+	Original handCount == 371
+	New handCount == 375
+TEST 1175: num cards in hand +2: FAILED
+	Original handCount == 54
+	New handCount == 58
+TEST 1176: num cards in hand +2: FAILED
+	Original handCount == 231
+	New handCount == 235
+TEST 1177: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 1178: num cards in hand +2: FAILED
+	Original handCount == 382
+	New handCount == 386
+TEST 1179: num cards in hand +2: FAILED
+	Original handCount == 253
+	New handCount == 257
+TEST 1180: num cards in hand +2: FAILED
+	Original handCount == 471
+	New handCount == 475
+TEST 1181: num cards in hand +2: FAILED
+	Original handCount == 30
+	New handCount == 34
+TEST 1182: num cards in hand +2: FAILED
+	Original handCount == 385
+	New handCount == 389
+TEST 1183: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 1184: num cards in hand +2: FAILED
+	Original handCount == 427
+	New handCount == 431
+TEST 1185: num cards in hand +2: FAILED
+	Original handCount == 386
+	New handCount == 390
+TEST 1186: num cards in hand +2: FAILED
+	Original handCount == 165
+	New handCount == 169
+TEST 1187: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 1188: num cards in hand +2: FAILED
+	Original handCount == 486
+	New handCount == 490
+TEST 1189: num cards in hand +2: FAILED
+	Original handCount == 313
+	New handCount == 317
+TEST 1190: num cards in hand +2: FAILED
+	Original handCount == 265
+	New handCount == 269
+TEST 1191: num cards in hand +2: FAILED
+	Original handCount == 413
+	New handCount == 417
+TEST 1192: num cards in hand +2: FAILED
+	Original handCount == 55
+	New handCount == 59
+TEST 1193: num cards in hand +2: FAILED
+	Original handCount == 327
+	New handCount == 331
+TEST 1194: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 1195: num cards in hand +2: FAILED
+	Original handCount == 218
+	New handCount == 222
+TEST 1196: num cards in hand +2: FAILED
+	Original handCount == 203
+	New handCount == 207
+TEST 1197: num cards in hand +2: FAILED
+	Original handCount == 361
+	New handCount == 365
+TEST 1198: num cards in hand +2: FAILED
+	Original handCount == 252
+	New handCount == 256
+TEST 1199: num cards in hand +2: FAILED
+	Original handCount == 223
+	New handCount == 227
+TEST 1200: num cards in hand +2: FAILED
+	Original handCount == 121
+	New handCount == 125
+TEST 1201: num cards in hand +2: FAILED
+	Original handCount == 195
+	New handCount == 199
+TEST 1202: num cards in hand +2: FAILED
+	Original handCount == 358
+	New handCount == 362
+TEST 1203: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 1204: num cards in hand +2: FAILED
+	Original handCount == 216
+	New handCount == 220
+TEST 1205: num cards in hand +2: FAILED
+	Original handCount == 117
+	New handCount == 121
+TEST 1206: num cards in hand +2: FAILED
+	Original handCount == 390
+	New handCount == 394
+TEST 1207: num cards in hand +2: FAILED
+	Original handCount == 26
+	New handCount == 30
+TEST 1208: num cards in hand +2: FAILED
+	Original handCount == 397
+	New handCount == 401
+TEST 1209: num cards in hand +2: FAILED
+	Original handCount == 162
+	New handCount == 166
+TEST 1210: num cards in hand +2: FAILED
+	Original handCount == 128
+	New handCount == 132
+TEST 1211: num cards in hand +2: FAILED
+	Original handCount == 110
+	New handCount == 114
+TEST 1212: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 1213: num cards in hand +2: FAILED
+	Original handCount == 103
+	New handCount == 107
+TEST 1214: num cards in hand +2: FAILED
+	Original handCount == 181
+	New handCount == 185
+TEST 1215: num cards in hand +2: FAILED
+	Original handCount == 182
+	New handCount == 186
+TEST 1216: num cards in hand +2: FAILED
+	Original handCount == 305
+	New handCount == 309
+TEST 1217: num cards in hand +2: FAILED
+	Original handCount == 192
+	New handCount == 196
+TEST 1218: num cards in hand +2: FAILED
+	Original handCount == 273
+	New handCount == 277
+TEST 1219: num cards in hand +2: FAILED
+	Original handCount == 191
+	New handCount == 195
+TEST 1220: num cards in hand +2: FAILED
+	Original handCount == 227
+	New handCount == 231
+TEST 1221: num cards in hand +2: FAILED
+	Original handCount == 491
+	New handCount == 495
+TEST 1222: num cards in hand +2: FAILED
+	Original handCount == 422
+	New handCount == 426
+TEST 1223: num cards in hand +2: FAILED
+	Original handCount == 84
+	New handCount == 88
+TEST 1224: num cards in hand +2: FAILED
+	Original handCount == 144
+	New handCount == 148
+TEST 1225: num cards in hand +2: FAILED
+	Original handCount == 369
+	New handCount == 373
+TEST 1226: num cards in hand +2: FAILED
+	Original handCount == 339
+	New handCount == 343
+TEST 1227: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 1228: num cards in hand +2: FAILED
+	Original handCount == 379
+	New handCount == 383
+TEST 1229: num cards in hand +2: FAILED
+	Original handCount == 175
+	New handCount == 179
+TEST 1230: num cards in hand +2: FAILED
+	Original handCount == 354
+	New handCount == 358
+TEST 1231: num cards in hand +2: FAILED
+	Original handCount == 34
+	New handCount == 38
+TEST 1232: num cards in hand +2: FAILED
+	Original handCount == 149
+	New handCount == 153
+TEST 1233: num cards in hand +2: FAILED
+	Original handCount == 388
+	New handCount == 392
+TEST 1234: num cards in hand +2: FAILED
+	Original handCount == 329
+	New handCount == 333
+TEST 1235: num cards in hand +2: FAILED
+	Original handCount == 67
+	New handCount == 71
+TEST 1236: num cards in hand +2: FAILED
+	Original handCount == 13
+	New handCount == 17
+TEST 1237: num cards in hand +2: FAILED
+	Original handCount == 69
+	New handCount == 73
+TEST 1238: num cards in hand +2: FAILED
+	Original handCount == 49
+	New handCount == 53
+TEST 1239: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 1240: num cards in hand +2: FAILED
+	Original handCount == 418
+	New handCount == 422
+TEST 1241: num cards in hand +2: FAILED
+	Original handCount == 58
+	New handCount == 62
+TEST 1242: num cards in hand +2: FAILED
+	Original handCount == 355
+	New handCount == 359
+TEST 1243: num cards in hand +2: FAILED
+	Original handCount == 210
+	New handCount == 214
+TEST 1244: num cards in hand +2: FAILED
+	Original handCount == 147
+	New handCount == 151
+TEST 1245: num cards in hand +2: FAILED
+	Original handCount == 375
+	New handCount == 379
+TEST 1246: num cards in hand +2: FAILED
+	Original handCount == 32
+	New handCount == 36
+TEST 1247: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 1248: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 1249: num cards in hand +2: FAILED
+	Original handCount == 264
+	New handCount == 268
+TEST 1250: num cards in hand +2: FAILED
+	Original handCount == 172
+	New handCount == 176
+TEST 1251: num cards in hand +2: FAILED
+	Original handCount == 20
+	New handCount == 24
+TEST 1252: num cards in hand +2: FAILED
+	Original handCount == 412
+	New handCount == 416
+TEST 1253: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 1254: num cards in hand +2: FAILED
+	Original handCount == 157
+	New handCount == 161
+TEST 1255: num cards in hand +2: FAILED
+	Original handCount == 219
+	New handCount == 223
+TEST 1256: num cards in hand +2: FAILED
+	Original handCount == 357
+	New handCount == 361
+TEST 1257: num cards in hand +2: FAILED
+	Original handCount == 451
+	New handCount == 455
+TEST 1258: num cards in hand +2: FAILED
+	Original handCount == 71
+	New handCount == 75
+TEST 1259: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 1260: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 1261: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 1262: num cards in hand +2: FAILED
+	Original handCount == 378
+	New handCount == 382
+TEST 1263: num cards in hand +2: FAILED
+	Original handCount == 435
+	New handCount == 439
+TEST 1264: num cards in hand +2: FAILED
+	Original handCount == 394
+	New handCount == 398
+TEST 1265: num cards in hand +2: FAILED
+	Original handCount == 73
+	New handCount == 77
+TEST 1266: num cards in hand +2: FAILED
+	Original handCount == 332
+	New handCount == 336
+TEST 1267: num cards in hand +2: FAILED
+	Original handCount == 16
+	New handCount == 20
+TEST 1268: num cards in hand +2: FAILED
+	Original handCount == 261
+	New handCount == 265
+TEST 1269: num cards in hand +2: FAILED
+	Original handCount == 321
+	New handCount == 325
+TEST 1270: num cards in hand +2: FAILED
+	Original handCount == 90
+	New handCount == 94
+TEST 1271: num cards in hand +2: FAILED
+	Original handCount == 15
+	New handCount == 19
+TEST 1272: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 1273: num cards in hand +2: FAILED
+	Original handCount == 184
+	New handCount == 188
+TEST 1274: num cards in hand +2: FAILED
+	Original handCount == 241
+	New handCount == 245
+TEST 1275: num cards in hand +2: FAILED
+	Original handCount == 243
+	New handCount == 247
+TEST 1276: num cards in hand +2: FAILED
+	Original handCount == 50
+	New handCount == 54
+TEST 1277: num cards in hand +2: FAILED
+	Original handCount == 100
+	New handCount == 104
+TEST 1278: num cards in hand +2: FAILED
+	Original handCount == 420
+	New handCount == 424
+TEST 1279: num cards in hand +2: FAILED
+	Original handCount == 132
+	New handCount == 136
+TEST 1280: num cards in hand +2: FAILED
+	Original handCount == 250
+	New handCount == 254
+TEST 1281: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 1282: num cards in hand +2: FAILED
+	Original handCount == 68
+	New handCount == 72
+TEST 1283: num cards in hand +2: FAILED
+	Original handCount == 375
+	New handCount == 379
+TEST 1284: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 1285: num cards in hand +2: FAILED
+	Original handCount == 238
+	New handCount == 242
+TEST 1286: num cards in hand +2: FAILED
+	Original handCount == 67
+	New handCount == 71
+TEST 1287: num cards in hand +2: FAILED
+	Original handCount == 249
+	New handCount == 253
+TEST 1288: num cards in hand +2: FAILED
+	Original handCount == 258
+	New handCount == 262
+TEST 1289: num cards in hand +2: FAILED
+	Original handCount == 433
+	New handCount == 437
+TEST 1290: num cards in hand +2: FAILED
+	Original handCount == 443
+	New handCount == 447
+TEST 1291: num cards in hand +2: FAILED
+	Original handCount == 411
+	New handCount == 415
+TEST 1292: num cards in hand +2: FAILED
+	Original handCount == 303
+	New handCount == 307
+TEST 1293: num cards in hand +2: FAILED
+	Original handCount == 419
+	New handCount == 423
+TEST 1294: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 1295: num cards in hand +2: FAILED
+	Original handCount == 92
+	New handCount == 96
+TEST 1296: num cards in hand +2: FAILED
+	Original handCount == 110
+	New handCount == 114
+TEST 1297: num cards in hand +2: FAILED
+	Original handCount == 356
+	New handCount == 360
+TEST 1298: num cards in hand +2: FAILED
+	Original handCount == 468
+	New handCount == 472
+TEST 1299: num cards in hand +2: FAILED
+	Original handCount == 365
+	New handCount == 369
+TEST 1300: num cards in hand +2: FAILED
+	Original handCount == 41
+	New handCount == 45
+TEST 1301: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 1302: num cards in hand +2: FAILED
+	Original handCount == 125
+	New handCount == 129
+TEST 1303: num cards in hand +2: FAILED
+	Original handCount == 342
+	New handCount == 346
+TEST 1304: num cards in hand +2: FAILED
+	Original handCount == 378
+	New handCount == 382
+TEST 1305: num cards in hand +2: FAILED
+	Original handCount == 265
+	New handCount == 269
+TEST 1306: num cards in hand +2: FAILED
+	Original handCount == 68
+	New handCount == 72
+TEST 1307: num cards in hand +2: FAILED
+	Original handCount == 390
+	New handCount == 394
+TEST 1308: num cards in hand +2: FAILED
+	Original handCount == 486
+	New handCount == 490
+TEST 1309: num cards in hand +2: FAILED
+	Original handCount == 66
+	New handCount == 70
+TEST 1310: num cards in hand +2: FAILED
+	Original handCount == 90
+	New handCount == 94
+TEST 1311: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 1312: num cards in hand +2: FAILED
+	Original handCount == 269
+	New handCount == 273
+TEST 1313: num cards in hand +2: FAILED
+	Original handCount == 146
+	New handCount == 150
+TEST 1314: num cards in hand +2: FAILED
+	Original handCount == 137
+	New handCount == 141
+TEST 1315: num cards in hand +2: FAILED
+	Original handCount == 427
+	New handCount == 431
+TEST 1316: num cards in hand +2: FAILED
+	Original handCount == 130
+	New handCount == 134
+TEST 1317: num cards in hand +2: FAILED
+	Original handCount == 380
+	New handCount == 384
+TEST 1318: num cards in hand +2: FAILED
+	Original handCount == 351
+	New handCount == 355
+TEST 1319: num cards in hand +2: FAILED
+	Original handCount == 182
+	New handCount == 186
+TEST 1320: num cards in hand +2: FAILED
+	Original handCount == 10
+	New handCount == 14
+TEST 1321: num cards in hand +2: FAILED
+	Original handCount == 413
+	New handCount == 417
+TEST 1322: num cards in hand +2: FAILED
+	Original handCount == 8
+	New handCount == 12
+TEST 1323: num cards in hand +2: FAILED
+	Original handCount == 446
+	New handCount == 450
+TEST 1324: num cards in hand +2: FAILED
+	Original handCount == 288
+	New handCount == 292
+TEST 1325: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 1326: num cards in hand +2: FAILED
+	Original handCount == 185
+	New handCount == 189
+TEST 1327: num cards in hand +2: FAILED
+	Original handCount == 247
+	New handCount == 251
+TEST 1328: num cards in hand +2: FAILED
+	Original handCount == 28
+	New handCount == 32
+TEST 1329: num cards in hand +2: FAILED
+	Original handCount == 120
+	New handCount == 124
+TEST 1330: num cards in hand +2: FAILED
+	Original handCount == 7
+	New handCount == 11
+TEST 1331: num cards in hand +2: FAILED
+	Original handCount == 214
+	New handCount == 218
+TEST 1332: num cards in hand +2: FAILED
+	Original handCount == 322
+	New handCount == 326
+TEST 1333: num cards in hand +2: FAILED
+	Original handCount == 449
+	New handCount == 453
+TEST 1334: num cards in hand +2: FAILED
+	Original handCount == 239
+	New handCount == 243
+TEST 1335: num cards in hand +2: FAILED
+	Original handCount == 224
+	New handCount == 228
+TEST 1336: num cards in hand +2: FAILED
+	Original handCount == 37
+	New handCount == 41
+TEST 1337: num cards in hand +2: FAILED
+	Original handCount == 97
+	New handCount == 101
+TEST 1338: num cards in hand +2: FAILED
+	Original handCount == 472
+	New handCount == 476
+TEST 1339: num cards in hand +2: FAILED
+	Original handCount == 212
+	New handCount == 216
+TEST 1340: num cards in hand +2: FAILED
+	Original handCount == 257
+	New handCount == 261
+TEST 1341: num cards in hand +2: FAILED
+	Original handCount == 400
+	New handCount == 404
+TEST 1342: num cards in hand +2: FAILED
+	Original handCount == 243
+	New handCount == 247
+TEST 1343: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 1344: num cards in hand +2: FAILED
+	Original handCount == 405
+	New handCount == 409
+TEST 1345: num cards in hand +2: FAILED
+	Original handCount == 224
+	New handCount == 228
+TEST 1346: num cards in hand +2: FAILED
+	Original handCount == 477
+	New handCount == 481
+TEST 1347: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 1348: num cards in hand +2: FAILED
+	Original handCount == 261
+	New handCount == 265
+TEST 1349: num cards in hand +2: FAILED
+	Original handCount == 321
+	New handCount == 325
+TEST 1350: num cards in hand +2: FAILED
+	Original handCount == 377
+	New handCount == 381
+TEST 1351: num cards in hand +2: FAILED
+	Original handCount == 282
+	New handCount == 286
+TEST 1352: num cards in hand +2: FAILED
+	Original handCount == 272
+	New handCount == 276
+TEST 1353: num cards in hand +2: FAILED
+	Original handCount == 338
+	New handCount == 342
+TEST 1354: num cards in hand +2: FAILED
+	Original handCount == 214
+	New handCount == 218
+TEST 1355: num cards in hand +2: FAILED
+	Original handCount == 106
+	New handCount == 110
+TEST 1356: num cards in hand +2: FAILED
+	Original handCount == 324
+	New handCount == 328
+TEST 1357: num cards in hand +2: FAILED
+	Original handCount == 334
+	New handCount == 338
+TEST 1358: num cards in hand +2: FAILED
+	Original handCount == 112
+	New handCount == 116
+TEST 1359: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 1360: num cards in hand +2: FAILED
+	Original handCount == 441
+	New handCount == 445
+TEST 1361: num cards in hand +2: FAILED
+	Original handCount == 310
+	New handCount == 314
+TEST 1362: num cards in hand +2: FAILED
+	Original handCount == 447
+	New handCount == 451
+TEST 1363: num cards in hand +2: FAILED
+	Original handCount == 338
+	New handCount == 342
+TEST 1364: num cards in hand +2: FAILED
+	Original handCount == 339
+	New handCount == 343
+TEST 1365: num cards in hand +2: FAILED
+	Original handCount == 468
+	New handCount == 472
+TEST 1366: num cards in hand +2: FAILED
+	Original handCount == 61
+	New handCount == 65
+TEST 1367: num cards in hand +2: FAILED
+	Original handCount == 397
+	New handCount == 401
+TEST 1368: num cards in hand +2: FAILED
+	Original handCount == 460
+	New handCount == 464
+TEST 1369: num cards in hand +2: FAILED
+	Original handCount == 455
+	New handCount == 459
+TEST 1370: num cards in hand +2: FAILED
+	Original handCount == 416
+	New handCount == 420
+TEST 1371: num cards in hand +2: FAILED
+	Original handCount == 124
+	New handCount == 128
+TEST 1372: num cards in hand +2: FAILED
+	Original handCount == 294
+	New handCount == 298
+TEST 1373: num cards in hand +2: FAILED
+	Original handCount == 162
+	New handCount == 166
+TEST 1374: num cards in hand +2: FAILED
+	Original handCount == 426
+	New handCount == 430
+TEST 1375: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 1376: num cards in hand +2: FAILED
+	Original handCount == 329
+	New handCount == 333
+TEST 1377: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 1378: num cards in hand +2: FAILED
+	Original handCount == 236
+	New handCount == 240
+TEST 1379: num cards in hand +2: FAILED
+	Original handCount == 119
+	New handCount == 123
+TEST 1380: num cards in hand +2: FAILED
+	Original handCount == 259
+	New handCount == 263
+TEST 1381: num cards in hand +2: FAILED
+	Original handCount == 472
+	New handCount == 476
+TEST 1382: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 1383: num cards in hand +2: FAILED
+	Original handCount == 472
+	New handCount == 476
+TEST 1384: num cards in hand +2: FAILED
+	Original handCount == 179
+	New handCount == 183
+TEST 1385: num cards in hand +2: FAILED
+	Original handCount == 287
+	New handCount == 291
+TEST 1386: num cards in hand +2: FAILED
+	Original handCount == 317
+	New handCount == 321
+TEST 1387: num cards in hand +2: FAILED
+	Original handCount == 184
+	New handCount == 188
+TEST 1388: num cards in hand +2: FAILED
+	Original handCount == 130
+	New handCount == 134
+TEST 1389: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 1390: num cards in hand +2: FAILED
+	Original handCount == 318
+	New handCount == 322
+TEST 1391: num cards in hand +2: FAILED
+	Original handCount == 11
+	New handCount == 15
+TEST 1392: num cards in hand +2: FAILED
+	Original handCount == 296
+	New handCount == 300
+TEST 1393: num cards in hand +2: FAILED
+	Original handCount == 247
+	New handCount == 251
+TEST 1394: num cards in hand +2: FAILED
+	Original handCount == 48
+	New handCount == 52
+TEST 1395: num cards in hand +2: FAILED
+	Original handCount == 252
+	New handCount == 256
+TEST 1396: num cards in hand +2: FAILED
+	Original handCount == 275
+	New handCount == 279
+TEST 1397: num cards in hand +2: FAILED
+	Original handCount == 456
+	New handCount == 460
+TEST 1398: num cards in hand +2: FAILED
+	Original handCount == 425
+	New handCount == 429
+TEST 1399: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 1400: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 1401: num cards in hand +2: FAILED
+	Original handCount == 478
+	New handCount == 482
+TEST 1402: num cards in hand +2: FAILED
+	Original handCount == 299
+	New handCount == 303
+TEST 1403: num cards in hand +2: FAILED
+	Original handCount == 305
+	New handCount == 309
+TEST 1404: num cards in hand +2: FAILED
+	Original handCount == 324
+	New handCount == 328
+TEST 1405: num cards in hand +2: FAILED
+	Original handCount == 237
+	New handCount == 241
+TEST 1406: num cards in hand +2: FAILED
+	Original handCount == 439
+	New handCount == 443
+TEST 1407: num cards in hand +2: FAILED
+	Original handCount == 52
+	New handCount == 56
+TEST 1408: num cards in hand +2: FAILED
+	Original handCount == 430
+	New handCount == 434
+TEST 1409: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 1410: num cards in hand +2: FAILED
+	Original handCount == 53
+	New handCount == 57
+TEST 1411: num cards in hand +2: FAILED
+	Original handCount == 241
+	New handCount == 245
+TEST 1412: num cards in hand +2: FAILED
+	Original handCount == 385
+	New handCount == 389
+TEST 1413: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 1414: num cards in hand +2: FAILED
+	Original handCount == 198
+	New handCount == 202
+TEST 1415: num cards in hand +2: FAILED
+	Original handCount == 277
+	New handCount == 281
+TEST 1416: num cards in hand +2: FAILED
+	Original handCount == 174
+	New handCount == 178
+TEST 1417: num cards in hand +2: FAILED
+	Original handCount == 417
+	New handCount == 421
+TEST 1418: num cards in hand +2: FAILED
+	Original handCount == 364
+	New handCount == 368
+TEST 1419: num cards in hand +2: FAILED
+	Original handCount == 106
+	New handCount == 110
+TEST 1420: num cards in hand +2: FAILED
+	Original handCount == 190
+	New handCount == 194
+TEST 1421: num cards in hand +2: FAILED
+	Original handCount == 167
+	New handCount == 171
+TEST 1422: num cards in hand +2: FAILED
+	Original handCount == 243
+	New handCount == 247
+TEST 1423: num cards in hand +2: FAILED
+	Original handCount == 385
+	New handCount == 389
+TEST 1424: num cards in hand +2: FAILED
+	Original handCount == 36
+	New handCount == 40
+TEST 1425: num cards in hand +2: FAILED
+	Original handCount == 347
+	New handCount == 351
+TEST 1426: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 1427: num cards in hand +2: FAILED
+	Original handCount == 438
+	New handCount == 442
+TEST 1428: num cards in hand +2: FAILED
+	Original handCount == 35
+	New handCount == 39
+TEST 1429: num cards in hand +2: FAILED
+	Original handCount == 317
+	New handCount == 321
+TEST 1430: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 1431: num cards in hand +2: FAILED
+	Original handCount == 238
+	New handCount == 242
+TEST 1432: num cards in hand +2: FAILED
+	Original handCount == 407
+	New handCount == 411
+TEST 1433: num cards in hand +2: FAILED
+	Original handCount == 112
+	New handCount == 116
+TEST 1434: num cards in hand +2: FAILED
+	Original handCount == 371
+	New handCount == 375
+TEST 1435: num cards in hand +2: FAILED
+	Original handCount == 387
+	New handCount == 391
+TEST 1436: num cards in hand +2: FAILED
+	Original handCount == 349
+	New handCount == 353
+TEST 1437: num cards in hand +2: FAILED
+	Original handCount == 327
+	New handCount == 331
+TEST 1438: num cards in hand +2: FAILED
+	Original handCount == 243
+	New handCount == 247
+TEST 1439: num cards in hand +2: FAILED
+	Original handCount == 258
+	New handCount == 262
+TEST 1440: num cards in hand +2: FAILED
+	Original handCount == 381
+	New handCount == 385
+TEST 1441: num cards in hand +2: FAILED
+	Original handCount == 433
+	New handCount == 437
+TEST 1442: num cards in hand +2: FAILED
+	Original handCount == 244
+	New handCount == 248
+TEST 1443: num cards in hand +2: FAILED
+	Original handCount == 215
+	New handCount == 219
+TEST 1444: num cards in hand +2: FAILED
+	Original handCount == 222
+	New handCount == 226
+TEST 1445: num cards in hand +2: FAILED
+	Original handCount == 158
+	New handCount == 162
+TEST 1446: num cards in hand +2: FAILED
+	Original handCount == 463
+	New handCount == 467
+TEST 1447: num cards in hand +2: FAILED
+	Original handCount == 142
+	New handCount == 146
+TEST 1448: num cards in hand +2: FAILED
+	Original handCount == 110
+	New handCount == 114
+TEST 1449: num cards in hand +2: FAILED
+	Original handCount == 338
+	New handCount == 342
+TEST 1450: num cards in hand +2: FAILED
+	Original handCount == 299
+	New handCount == 303
+TEST 1451: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 1452: num cards in hand +2: FAILED
+	Original handCount == 156
+	New handCount == 160
+TEST 1453: num cards in hand +2: FAILED
+	Original handCount == 283
+	New handCount == 287
+TEST 1454: num cards in hand +2: FAILED
+	Original handCount == 308
+	New handCount == 312
+TEST 1455: num cards in hand +2: FAILED
+	Original handCount == 321
+	New handCount == 325
+TEST 1456: num cards in hand +2: FAILED
+	Original handCount == 361
+	New handCount == 365
+TEST 1457: num cards in hand +2: FAILED
+	Original handCount == 353
+	New handCount == 357
+TEST 1458: num cards in hand +2: FAILED
+	Original handCount == 91
+	New handCount == 95
+TEST 1459: num cards in hand +2: FAILED
+	Original handCount == 78
+	New handCount == 82
+TEST 1460: num cards in hand +2: FAILED
+	Original handCount == 266
+	New handCount == 270
+TEST 1461: num cards in hand +2: FAILED
+	Original handCount == 279
+	New handCount == 283
+TEST 1462: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 1463: num cards in hand +2: FAILED
+	Original handCount == 172
+	New handCount == 176
+TEST 1464: num cards in hand +2: FAILED
+	Original handCount == 211
+	New handCount == 215
+TEST 1465: num cards in hand +2: FAILED
+	Original handCount == 167
+	New handCount == 171
+TEST 1466: num cards in hand +2: FAILED
+	Original handCount == 181
+	New handCount == 185
+TEST 1467: num cards in hand +2: FAILED
+	Original handCount == 390
+	New handCount == 394
+TEST 1468: num cards in hand +2: FAILED
+	Original handCount == 474
+	New handCount == 478
+TEST 1469: num cards in hand +2: FAILED
+	Original handCount == 77
+	New handCount == 81
+TEST 1470: num cards in hand +2: FAILED
+	Original handCount == 139
+	New handCount == 143
+TEST 1471: num cards in hand +2: FAILED
+	Original handCount == 72
+	New handCount == 76
+TEST 1472: num cards in hand +2: FAILED
+	Original handCount == 209
+	New handCount == 213
+TEST 1473: num cards in hand +2: FAILED
+	Original handCount == 446
+	New handCount == 450
+TEST 1474: num cards in hand +2: FAILED
+	Original handCount == 395
+	New handCount == 399
+TEST 1475: num cards in hand +2: FAILED
+	Original handCount == 164
+	New handCount == 168
+TEST 1476: num cards in hand +2: FAILED
+	Original handCount == 381
+	New handCount == 385
+TEST 1477: num cards in hand +2: FAILED
+	Original handCount == 256
+	New handCount == 260
+TEST 1478: num cards in hand +2: FAILED
+	Original handCount == 88
+	New handCount == 92
+TEST 1479: num cards in hand +2: FAILED
+	Original handCount == 212
+	New handCount == 216
+TEST 1480: num cards in hand +2: FAILED
+	Original handCount == 248
+	New handCount == 252
+TEST 1481: num cards in hand +2: FAILED
+	Original handCount == 385
+	New handCount == 389
+TEST 1482: num cards in hand +2: FAILED
+	Original handCount == 222
+	New handCount == 226
+TEST 1483: num cards in hand +2: FAILED
+	Original handCount == 322
+	New handCount == 326
+TEST 1484: num cards in hand +2: FAILED
+	Original handCount == 388
+	New handCount == 392
+TEST 1485: num cards in hand +2: FAILED
+	Original handCount == 458
+	New handCount == 462
+TEST 1486: num cards in hand +2: FAILED
+	Original handCount == 156
+	New handCount == 160
+TEST 1487: num cards in hand +2: FAILED
+	Original handCount == 444
+	New handCount == 448
+TEST 1488: num cards in hand +2: FAILED
+	Original handCount == 69
+	New handCount == 73
+TEST 1489: num cards in hand +2: FAILED
+	Original handCount == 329
+	New handCount == 333
+TEST 1490: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 1491: num cards in hand +2: FAILED
+	Original handCount == 137
+	New handCount == 141
+TEST 1492: num cards in hand +2: FAILED
+	Original handCount == 214
+	New handCount == 218
+TEST 1493: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 1494: num cards in hand +2: FAILED
+	Original handCount == 62
+	New handCount == 66
+TEST 1495: num cards in hand +2: FAILED
+	Original handCount == 357
+	New handCount == 361
+TEST 1496: num cards in hand +2: FAILED
+	Original handCount == 354
+	New handCount == 358
+TEST 1497: num cards in hand +2: FAILED
+	Original handCount == 230
+	New handCount == 234
+TEST 1498: num cards in hand +2: FAILED
+	Original handCount == 372
+	New handCount == 376
+TEST 1499: num cards in hand +2: FAILED
+	Original handCount == 45
+	New handCount == 49
+TEST 1500: num cards in hand +2: FAILED
+	Original handCount == 53
+	New handCount == 57
+TEST 1501: num cards in hand +2: FAILED
+	Original handCount == 457
+	New handCount == 461
+TEST 1502: num cards in hand +2: FAILED
+	Original handCount == 471
+	New handCount == 475
+TEST 1503: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 1504: num cards in hand +2: FAILED
+	Original handCount == 257
+	New handCount == 261
+TEST 1505: num cards in hand +2: FAILED
+	Original handCount == 44
+	New handCount == 48
+TEST 1506: num cards in hand +2: FAILED
+	Original handCount == 59
+	New handCount == 63
+TEST 1507: num cards in hand +2: FAILED
+	Original handCount == 423
+	New handCount == 427
+TEST 1508: num cards in hand +2: FAILED
+	Original handCount == 454
+	New handCount == 458
+TEST 1509: num cards in hand +2: FAILED
+	Original handCount == 250
+	New handCount == 254
+TEST 1510: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 1511: num cards in hand +2: FAILED
+	Original handCount == 326
+	New handCount == 330
+TEST 1512: num cards in hand +2: FAILED
+	Original handCount == 248
+	New handCount == 252
+TEST 1513: num cards in hand +2: FAILED
+	Original handCount == 263
+	New handCount == 267
+TEST 1514: num cards in hand +2: FAILED
+	Original handCount == 273
+	New handCount == 277
+TEST 1515: num cards in hand +2: FAILED
+	Original handCount == 210
+	New handCount == 214
+TEST 1516: num cards in hand +2: FAILED
+	Original handCount == 107
+	New handCount == 111
+TEST 1517: num cards in hand +2: FAILED
+	Original handCount == 272
+	New handCount == 276
+TEST 1518: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 1519: num cards in hand +2: FAILED
+	Original handCount == 147
+	New handCount == 151
+TEST 1520: num cards in hand +2: FAILED
+	Original handCount == 412
+	New handCount == 416
+TEST 1521: num cards in hand +2: FAILED
+	Original handCount == 244
+	New handCount == 248
+TEST 1522: num cards in hand +2: FAILED
+	Original handCount == 148
+	New handCount == 152
+TEST 1523: num cards in hand +2: FAILED
+	Original handCount == 492
+	New handCount == 496
+TEST 1524: num cards in hand +2: FAILED
+	Original handCount == 142
+	New handCount == 146
+TEST 1525: num cards in hand +2: FAILED
+	Original handCount == 61
+	New handCount == 65
+TEST 1526: num cards in hand +2: FAILED
+	Original handCount == 444
+	New handCount == 448
+TEST 1527: num cards in hand +2: FAILED
+	Original handCount == 141
+	New handCount == 145
+TEST 1528: num cards in hand +2: FAILED
+	Original handCount == 301
+	New handCount == 305
+TEST 1529: num cards in hand +2: FAILED
+	Original handCount == 29
+	New handCount == 33
+TEST 1530: num cards in hand +2: FAILED
+	Original handCount == 387
+	New handCount == 391
+TEST 1531: num cards in hand +2: FAILED
+	Original handCount == 95
+	New handCount == 99
+TEST 1532: num cards in hand +2: FAILED
+	Original handCount == 32
+	New handCount == 36
+TEST 1533: num cards in hand +2: FAILED
+	Original handCount == 123
+	New handCount == 127
+TEST 1534: num cards in hand +2: FAILED
+	Original handCount == 77
+	New handCount == 81
+TEST 1535: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 1536: num cards in hand +2: FAILED
+	Original handCount == 183
+	New handCount == 187
+TEST 1537: num cards in hand +2: FAILED
+	Original handCount == 299
+	New handCount == 303
+TEST 1538: num cards in hand +2: FAILED
+	Original handCount == 107
+	New handCount == 111
+TEST 1539: num cards in hand +2: FAILED
+	Original handCount == 435
+	New handCount == 439
+TEST 1540: num cards in hand +2: FAILED
+	Original handCount == 76
+	New handCount == 80
+TEST 1541: num cards in hand +2: FAILED
+	Original handCount == 468
+	New handCount == 472
+TEST 1542: num cards in hand +2: FAILED
+	Original handCount == 45
+	New handCount == 49
+TEST 1543: num cards in hand +2: FAILED
+	Original handCount == 19
+	New handCount == 23
+TEST 1544: num cards in hand +2: FAILED
+	Original handCount == 370
+	New handCount == 374
+TEST 1545: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 1546: num cards in hand +2: FAILED
+	Original handCount == 486
+	New handCount == 490
+TEST 1547: num cards in hand +2: FAILED
+	Original handCount == 440
+	New handCount == 444
+TEST 1548: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 1549: num cards in hand +2: FAILED
+	Original handCount == 440
+	New handCount == 444
+TEST 1550: num cards in hand +2: FAILED
+	Original handCount == 58
+	New handCount == 62
+TEST 1551: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 1552: num cards in hand +2: FAILED
+	Original handCount == 464
+	New handCount == 468
+TEST 1553: num cards in hand +2: FAILED
+	Original handCount == 148
+	New handCount == 152
+TEST 1554: num cards in hand +2: FAILED
+	Original handCount == 258
+	New handCount == 262
+TEST 1555: num cards in hand +2: FAILED
+	Original handCount == 78
+	New handCount == 82
+TEST 1556: num cards in hand +2: FAILED
+	Original handCount == 121
+	New handCount == 125
+TEST 1557: num cards in hand +2: FAILED
+	Original handCount == 154
+	New handCount == 158
+TEST 1558: num cards in hand +2: FAILED
+	Original handCount == 426
+	New handCount == 430
+TEST 1559: num cards in hand +2: FAILED
+	Original handCount == 186
+	New handCount == 190
+TEST 1560: num cards in hand +2: FAILED
+	Original handCount == 453
+	New handCount == 457
+TEST 1561: num cards in hand +2: FAILED
+	Original handCount == 314
+	New handCount == 318
+TEST 1562: num cards in hand +2: FAILED
+	Original handCount == 170
+	New handCount == 174
+TEST 1563: num cards in hand +2: FAILED
+	Original handCount == 327
+	New handCount == 331
+TEST 1564: num cards in hand +2: FAILED
+	Original handCount == 228
+	New handCount == 232
+TEST 1565: num cards in hand +2: FAILED
+	Original handCount == 441
+	New handCount == 445
+TEST 1566: num cards in hand +2: FAILED
+	Original handCount == 494
+	New handCount == 498
+TEST 1567: num cards in hand +2: FAILED
+	Original handCount == 84
+	New handCount == 88
+TEST 1568: num cards in hand +2: FAILED
+	Original handCount == 351
+	New handCount == 355
+TEST 1569: num cards in hand +2: FAILED
+	Original handCount == 229
+	New handCount == 233
+TEST 1570: num cards in hand +2: FAILED
+	Original handCount == 97
+	New handCount == 101
+TEST 1571: num cards in hand +2: FAILED
+	Original handCount == 150
+	New handCount == 154
+TEST 1572: num cards in hand +2: FAILED
+	Original handCount == 368
+	New handCount == 372
+TEST 1573: num cards in hand +2: FAILED
+	Original handCount == 420
+	New handCount == 424
+TEST 1574: num cards in hand +2: FAILED
+	Original handCount == 162
+	New handCount == 166
+TEST 1575: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 1576: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 1577: num cards in hand +2: FAILED
+	Original handCount == 185
+	New handCount == 189
+TEST 1578: num cards in hand +2: FAILED
+	Original handCount == 312
+	New handCount == 316
+TEST 1579: num cards in hand +2: FAILED
+	Original handCount == 262
+	New handCount == 266
+TEST 1580: num cards in hand +2: FAILED
+	Original handCount == 193
+	New handCount == 197
+TEST 1581: num cards in hand +2: FAILED
+	Original handCount == 237
+	New handCount == 241
+TEST 1582: num cards in hand +2: FAILED
+	Original handCount == 218
+	New handCount == 222
+TEST 1583: num cards in hand +2: FAILED
+	Original handCount == 348
+	New handCount == 352
+TEST 1584: num cards in hand +2: FAILED
+	Original handCount == 28
+	New handCount == 32
+TEST 1585: num cards in hand +2: FAILED
+	Original handCount == 344
+	New handCount == 348
+TEST 1586: num cards in hand +2: FAILED
+	Original handCount == 44
+	New handCount == 48
+TEST 1587: num cards in hand +2: FAILED
+	Original handCount == 171
+	New handCount == 175
+TEST 1588: num cards in hand +2: FAILED
+	Original handCount == 463
+	New handCount == 467
+TEST 1589: num cards in hand +2: FAILED
+	Original handCount == 402
+	New handCount == 406
+TEST 1590: num cards in hand +2: FAILED
+	Original handCount == 65
+	New handCount == 69
+TEST 1591: num cards in hand +2: FAILED
+	Original handCount == 116
+	New handCount == 120
+TEST 1592: num cards in hand +2: FAILED
+	Original handCount == 362
+	New handCount == 366
+TEST 1593: num cards in hand +2: FAILED
+	Original handCount == 24
+	New handCount == 28
+TEST 1594: num cards in hand +2: FAILED
+	Original handCount == 454
+	New handCount == 458
+TEST 1595: num cards in hand +2: FAILED
+	Original handCount == 228
+	New handCount == 232
+TEST 1596: num cards in hand +2: FAILED
+	Original handCount == 272
+	New handCount == 276
+TEST 1597: num cards in hand +2: FAILED
+	Original handCount == 498
+	New handCount == 502
+TEST 1598: num cards in hand +2: FAILED
+	Original handCount == 404
+	New handCount == 408
+TEST 1599: num cards in hand +2: FAILED
+	Original handCount == 470
+	New handCount == 474
+TEST 1600: num cards in hand +2: FAILED
+	Original handCount == 289
+	New handCount == 293
+TEST 1601: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 1602: num cards in hand +2: FAILED
+	Original handCount == 302
+	New handCount == 306
+TEST 1603: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 1604: num cards in hand +2: FAILED
+	Original handCount == 94
+	New handCount == 98
+TEST 1605: num cards in hand +2: FAILED
+	Original handCount == 14
+	New handCount == 18
+TEST 1606: num cards in hand +2: FAILED
+	Original handCount == 432
+	New handCount == 436
+TEST 1607: num cards in hand +2: FAILED
+	Original handCount == 219
+	New handCount == 223
+TEST 1608: num cards in hand +2: FAILED
+	Original handCount == 479
+	New handCount == 483
+TEST 1609: num cards in hand +2: FAILED
+	Original handCount == 500
+	New handCount == 504
+TEST 1610: num cards in hand +2: FAILED
+	Original handCount == 233
+	New handCount == 237
+TEST 1611: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 1612: num cards in hand +2: FAILED
+	Original handCount == 217
+	New handCount == 221
+TEST 1613: num cards in hand +2: FAILED
+	Original handCount == 365
+	New handCount == 369
+TEST 1614: num cards in hand +2: FAILED
+	Original handCount == 39
+	New handCount == 43
+TEST 1615: num cards in hand +2: FAILED
+	Original handCount == 305
+	New handCount == 309
+TEST 1616: num cards in hand +2: FAILED
+	Original handCount == 344
+	New handCount == 348
+TEST 1617: num cards in hand +2: FAILED
+	Original handCount == 7
+	New handCount == 11
+TEST 1618: num cards in hand +2: FAILED
+	Original handCount == 108
+	New handCount == 112
+TEST 1619: num cards in hand +2: FAILED
+	Original handCount == 249
+	New handCount == 253
+TEST 1620: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 1621: num cards in hand +2: FAILED
+	Original handCount == 351
+	New handCount == 355
+TEST 1622: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 1623: num cards in hand +2: FAILED
+	Original handCount == 494
+	New handCount == 498
+TEST 1624: num cards in hand +2: FAILED
+	Original handCount == 435
+	New handCount == 439
+TEST 1625: num cards in hand +2: FAILED
+	Original handCount == 191
+	New handCount == 195
+TEST 1626: num cards in hand +2: FAILED
+	Original handCount == 137
+	New handCount == 141
+TEST 1627: num cards in hand +2: FAILED
+	Original handCount == 102
+	New handCount == 106
+TEST 1628: num cards in hand +2: FAILED
+	Original handCount == 30
+	New handCount == 34
+TEST 1629: num cards in hand +2: FAILED
+	Original handCount == 178
+	New handCount == 182
+TEST 1630: num cards in hand +2: FAILED
+	Original handCount == 26
+	New handCount == 30
+TEST 1631: num cards in hand +2: FAILED
+	Original handCount == 173
+	New handCount == 177
+TEST 1632: num cards in hand +2: FAILED
+	Original handCount == 36
+	New handCount == 40
+TEST 1633: num cards in hand +2: FAILED
+	Original handCount == 301
+	New handCount == 305
+TEST 1634: num cards in hand +2: FAILED
+	Original handCount == 236
+	New handCount == 240
+TEST 1635: num cards in hand +2: FAILED
+	Original handCount == 209
+	New handCount == 213
+TEST 1636: num cards in hand +2: FAILED
+	Original handCount == 184
+	New handCount == 188
+TEST 1637: num cards in hand +2: FAILED
+	Original handCount == 281
+	New handCount == 285
+TEST 1638: num cards in hand +2: FAILED
+	Original handCount == 412
+	New handCount == 416
+TEST 1639: num cards in hand +2: FAILED
+	Original handCount == 19
+	New handCount == 23
+TEST 1640: num cards in hand +2: FAILED
+	Original handCount == 222
+	New handCount == 226
+TEST 1641: num cards in hand +2: FAILED
+	Original handCount == 108
+	New handCount == 112
+TEST 1642: num cards in hand +2: FAILED
+	Original handCount == 479
+	New handCount == 483
+TEST 1643: num cards in hand +2: FAILED
+	Original handCount == 310
+	New handCount == 314
+TEST 1644: num cards in hand +2: FAILED
+	Original handCount == 66
+	New handCount == 70
+TEST 1645: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 1646: num cards in hand +2: FAILED
+	Original handCount == 138
+	New handCount == 142
+TEST 1647: num cards in hand +2: FAILED
+	Original handCount == 493
+	New handCount == 497
+TEST 1648: num cards in hand +2: FAILED
+	Original handCount == 174
+	New handCount == 178
+TEST 1649: num cards in hand +2: FAILED
+	Original handCount == 366
+	New handCount == 370
+TEST 1650: num cards in hand +2: FAILED
+	Original handCount == 143
+	New handCount == 147
+TEST 1651: num cards in hand +2: FAILED
+	Original handCount == 282
+	New handCount == 286
+TEST 1652: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 1653: num cards in hand +2: FAILED
+	Original handCount == 174
+	New handCount == 178
+TEST 1654: num cards in hand +2: FAILED
+	Original handCount == 165
+	New handCount == 169
+TEST 1655: num cards in hand +2: FAILED
+	Original handCount == 436
+	New handCount == 440
+TEST 1656: num cards in hand +2: FAILED
+	Original handCount == 442
+	New handCount == 446
+TEST 1657: num cards in hand +2: FAILED
+	Original handCount == 158
+	New handCount == 162
+TEST 1658: num cards in hand +2: FAILED
+	Original handCount == 305
+	New handCount == 309
+TEST 1659: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 1660: num cards in hand +2: FAILED
+	Original handCount == 306
+	New handCount == 310
+TEST 1661: num cards in hand +2: FAILED
+	Original handCount == 379
+	New handCount == 383
+TEST 1662: num cards in hand +2: FAILED
+	Original handCount == 258
+	New handCount == 262
+TEST 1663: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 1664: num cards in hand +2: FAILED
+	Original handCount == 256
+	New handCount == 260
+TEST 1665: num cards in hand +2: FAILED
+	Original handCount == 141
+	New handCount == 145
+TEST 1666: num cards in hand +2: FAILED
+	Original handCount == 102
+	New handCount == 106
+TEST 1667: num cards in hand +2: FAILED
+	Original handCount == 325
+	New handCount == 329
+TEST 1668: num cards in hand +2: FAILED
+	Original handCount == 236
+	New handCount == 240
+TEST 1669: num cards in hand +2: FAILED
+	Original handCount == 371
+	New handCount == 375
+TEST 1670: num cards in hand +2: FAILED
+	Original handCount == 229
+	New handCount == 233
+TEST 1671: num cards in hand +2: FAILED
+	Original handCount == 205
+	New handCount == 209
+TEST 1672: num cards in hand +2: FAILED
+	Original handCount == 224
+	New handCount == 228
+TEST 1673: num cards in hand +2: FAILED
+	Original handCount == 345
+	New handCount == 349
+TEST 1674: num cards in hand +2: FAILED
+	Original handCount == 225
+	New handCount == 229
+TEST 1675: num cards in hand +2: FAILED
+	Original handCount == 454
+	New handCount == 458
+TEST 1676: num cards in hand +2: FAILED
+	Original handCount == 303
+	New handCount == 307
+TEST 1677: num cards in hand +2: FAILED
+	Original handCount == 155
+	New handCount == 159
+TEST 1678: num cards in hand +2: FAILED
+	Original handCount == 252
+	New handCount == 256
+TEST 1679: num cards in hand +2: FAILED
+	Original handCount == 169
+	New handCount == 173
+TEST 1680: num cards in hand +2: FAILED
+	Original handCount == 460
+	New handCount == 464
+TEST 1681: num cards in hand +2: FAILED
+	Original handCount == 401
+	New handCount == 405
+TEST 1682: num cards in hand +2: FAILED
+	Original handCount == 32
+	New handCount == 36
+TEST 1683: num cards in hand +2: FAILED
+	Original handCount == 220
+	New handCount == 224
+TEST 1684: num cards in hand +2: FAILED
+	Original handCount == 421
+	New handCount == 425
+TEST 1685: num cards in hand +2: FAILED
+	Original handCount == 140
+	New handCount == 144
+TEST 1686: num cards in hand +2: FAILED
+	Original handCount == 40
+	New handCount == 44
+TEST 1687: num cards in hand +2: FAILED
+	Original handCount == 378
+	New handCount == 382
+TEST 1688: num cards in hand +2: FAILED
+	Original handCount == 117
+	New handCount == 121
+TEST 1689: num cards in hand +2: FAILED
+	Original handCount == 173
+	New handCount == 177
+TEST 1690: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 1691: num cards in hand +2: FAILED
+	Original handCount == 479
+	New handCount == 483
+TEST 1692: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 1693: num cards in hand +2: FAILED
+	Original handCount == 248
+	New handCount == 252
+TEST 1694: num cards in hand +2: FAILED
+	Original handCount == 332
+	New handCount == 336
+TEST 1695: num cards in hand +2: FAILED
+	Original handCount == 456
+	New handCount == 460
+TEST 1696: num cards in hand +2: FAILED
+	Original handCount == 119
+	New handCount == 123
+TEST 1697: num cards in hand +2: FAILED
+	Original handCount == 357
+	New handCount == 361
+TEST 1698: num cards in hand +2: FAILED
+	Original handCount == 195
+	New handCount == 199
+TEST 1699: num cards in hand +2: FAILED
+	Original handCount == 406
+	New handCount == 410
+TEST 1700: num cards in hand +2: FAILED
+	Original handCount == 217
+	New handCount == 221
+TEST 1701: num cards in hand +2: FAILED
+	Original handCount == 146
+	New handCount == 150
+TEST 1702: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 1703: num cards in hand +2: FAILED
+	Original handCount == 141
+	New handCount == 145
+TEST 1704: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 1705: num cards in hand +2: FAILED
+	Original handCount == 200
+	New handCount == 204
+TEST 1706: num cards in hand +2: FAILED
+	Original handCount == 62
+	New handCount == 66
+TEST 1707: num cards in hand +2: FAILED
+	Original handCount == 89
+	New handCount == 93
+TEST 1708: num cards in hand +2: FAILED
+	Original handCount == 176
+	New handCount == 180
+TEST 1709: num cards in hand +2: FAILED
+	Original handCount == 189
+	New handCount == 193
+TEST 1710: num cards in hand +2: FAILED
+	Original handCount == 124
+	New handCount == 128
+TEST 1711: num cards in hand +2: FAILED
+	Original handCount == 70
+	New handCount == 74
+TEST 1712: num cards in hand +2: FAILED
+	Original handCount == 407
+	New handCount == 411
+TEST 1713: num cards in hand +2: FAILED
+	Original handCount == 342
+	New handCount == 346
+TEST 1714: num cards in hand +2: FAILED
+	Original handCount == 173
+	New handCount == 177
+TEST 1715: num cards in hand +2: FAILED
+	Original handCount == 150
+	New handCount == 154
+TEST 1716: num cards in hand +2: FAILED
+	Original handCount == 467
+	New handCount == 471
+TEST 1717: num cards in hand +2: FAILED
+	Original handCount == 391
+	New handCount == 395
+TEST 1718: num cards in hand +2: FAILED
+	Original handCount == 104
+	New handCount == 108
+TEST 1719: num cards in hand +2: FAILED
+	Original handCount == 437
+	New handCount == 441
+TEST 1720: num cards in hand +2: FAILED
+	Original handCount == 388
+	New handCount == 392
+TEST 1721: num cards in hand +2: FAILED
+	Original handCount == 334
+	New handCount == 338
+TEST 1722: num cards in hand +2: FAILED
+	Original handCount == 332
+	New handCount == 336
+TEST 1723: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 1724: num cards in hand +2: FAILED
+	Original handCount == 368
+	New handCount == 372
+TEST 1725: num cards in hand +2: FAILED
+	Original handCount == 202
+	New handCount == 206
+TEST 1726: num cards in hand +2: FAILED
+	Original handCount == 494
+	New handCount == 498
+TEST 1727: num cards in hand +2: FAILED
+	Original handCount == 345
+	New handCount == 349
+TEST 1728: num cards in hand +2: FAILED
+	Original handCount == 202
+	New handCount == 206
+TEST 1729: num cards in hand +2: FAILED
+	Original handCount == 354
+	New handCount == 358
+TEST 1730: num cards in hand +2: FAILED
+	Original handCount == 118
+	New handCount == 122
+TEST 1731: num cards in hand +2: FAILED
+	Original handCount == 435
+	New handCount == 439
+TEST 1732: num cards in hand +2: FAILED
+	Original handCount == 425
+	New handCount == 429
+TEST 1733: num cards in hand +2: FAILED
+	Original handCount == 20
+	New handCount == 24
+TEST 1734: num cards in hand +2: FAILED
+	Original handCount == 378
+	New handCount == 382
+TEST 1735: num cards in hand +2: FAILED
+	Original handCount == 499
+	New handCount == 503
+TEST 1736: num cards in hand +2: FAILED
+	Original handCount == 432
+	New handCount == 436
+TEST 1737: num cards in hand +2: FAILED
+	Original handCount == 452
+	New handCount == 456
+TEST 1738: num cards in hand +2: FAILED
+	Original handCount == 141
+	New handCount == 145
+TEST 1739: num cards in hand +2: FAILED
+	Original handCount == 209
+	New handCount == 213
+TEST 1740: num cards in hand +2: FAILED
+	Original handCount == 98
+	New handCount == 102
+TEST 1741: num cards in hand +2: FAILED
+	Original handCount == 482
+	New handCount == 486
+TEST 1742: num cards in hand +2: FAILED
+	Original handCount == 341
+	New handCount == 345
+TEST 1743: num cards in hand +2: FAILED
+	Original handCount == 487
+	New handCount == 491
+TEST 1744: num cards in hand +2: FAILED
+	Original handCount == 115
+	New handCount == 119
+TEST 1745: num cards in hand +2: FAILED
+	Original handCount == 357
+	New handCount == 361
+TEST 1746: num cards in hand +2: FAILED
+	Original handCount == 48
+	New handCount == 52
+TEST 1747: num cards in hand +2: FAILED
+	Original handCount == 268
+	New handCount == 272
+TEST 1748: num cards in hand +2: FAILED
+	Original handCount == 131
+	New handCount == 135
+TEST 1749: num cards in hand +2: FAILED
+	Original handCount == 381
+	New handCount == 385
+TEST 1750: num cards in hand +2: FAILED
+	Original handCount == 422
+	New handCount == 426
+TEST 1751: num cards in hand +2: FAILED
+	Original handCount == 58
+	New handCount == 62
+TEST 1752: num cards in hand +2: FAILED
+	Original handCount == 289
+	New handCount == 293
+TEST 1753: num cards in hand +2: FAILED
+	Original handCount == 76
+	New handCount == 80
+TEST 1754: num cards in hand +2: FAILED
+	Original handCount == 422
+	New handCount == 426
+TEST 1755: num cards in hand +2: FAILED
+	Original handCount == 454
+	New handCount == 458
+TEST 1756: num cards in hand +2: FAILED
+	Original handCount == 413
+	New handCount == 417
+TEST 1757: num cards in hand +2: FAILED
+	Original handCount == 352
+	New handCount == 356
+TEST 1758: num cards in hand +2: FAILED
+	Original handCount == 242
+	New handCount == 246
+TEST 1759: num cards in hand +2: FAILED
+	Original handCount == 45
+	New handCount == 49
+TEST 1760: num cards in hand +2: FAILED
+	Original handCount == 39
+	New handCount == 43
+TEST 1761: num cards in hand +2: FAILED
+	Original handCount == 498
+	New handCount == 502
+TEST 1762: num cards in hand +2: FAILED
+	Original handCount == 451
+	New handCount == 455
+TEST 1763: num cards in hand +2: FAILED
+	Original handCount == 445
+	New handCount == 449
+TEST 1764: num cards in hand +2: FAILED
+	Original handCount == 276
+	New handCount == 280
+TEST 1765: num cards in hand +2: FAILED
+	Original handCount == 431
+	New handCount == 435
+TEST 1766: num cards in hand +2: FAILED
+	Original handCount == 342
+	New handCount == 346
+TEST 1767: num cards in hand +2: FAILED
+	Original handCount == 203
+	New handCount == 207
+TEST 1768: num cards in hand +2: FAILED
+	Original handCount == 450
+	New handCount == 454
+TEST 1769: num cards in hand +2: FAILED
+	Original handCount == 144
+	New handCount == 148
+TEST 1770: num cards in hand +2: FAILED
+	Original handCount == 120
+	New handCount == 124
+TEST 1771: num cards in hand +2: FAILED
+	Original handCount == 438
+	New handCount == 442
+TEST 1772: num cards in hand +2: FAILED
+	Original handCount == 483
+	New handCount == 487
+TEST 1773: num cards in hand +2: FAILED
+	Original handCount == 118
+	New handCount == 122
+TEST 1774: num cards in hand +2: FAILED
+	Original handCount == 229
+	New handCount == 233
+TEST 1775: num cards in hand +2: FAILED
+	Original handCount == 61
+	New handCount == 65
+TEST 1776: num cards in hand +2: FAILED
+	Original handCount == 54
+	New handCount == 58
+TEST 1777: num cards in hand +2: FAILED
+	Original handCount == 276
+	New handCount == 280
+TEST 1778: num cards in hand +2: FAILED
+	Original handCount == 336
+	New handCount == 340
+TEST 1779: num cards in hand +2: FAILED
+	Original handCount == 133
+	New handCount == 137
+TEST 1780: num cards in hand +2: FAILED
+	Original handCount == 485
+	New handCount == 489
+TEST 1781: num cards in hand +2: FAILED
+	Original handCount == 497
+	New handCount == 501
+TEST 1782: num cards in hand +2: FAILED
+	Original handCount == 308
+	New handCount == 312
+TEST 1783: num cards in hand +2: FAILED
+	Original handCount == 132
+	New handCount == 136
+TEST 1784: num cards in hand +2: FAILED
+	Original handCount == 140
+	New handCount == 144
+TEST 1785: num cards in hand +2: FAILED
+	Original handCount == 128
+	New handCount == 132
+TEST 1786: num cards in hand +2: FAILED
+	Original handCount == 107
+	New handCount == 111
+TEST 1787: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 1788: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 1789: num cards in hand +2: FAILED
+	Original handCount == 266
+	New handCount == 270
+TEST 1790: num cards in hand +2: FAILED
+	Original handCount == 273
+	New handCount == 277
+TEST 1791: num cards in hand +2: FAILED
+	Original handCount == 199
+	New handCount == 203
+TEST 1792: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 1793: num cards in hand +2: FAILED
+	Original handCount == 337
+	New handCount == 341
+TEST 1794: num cards in hand +2: FAILED
+	Original handCount == 475
+	New handCount == 479
+TEST 1795: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 1796: num cards in hand +2: FAILED
+	Original handCount == 51
+	New handCount == 55
+TEST 1797: num cards in hand +2: FAILED
+	Original handCount == 190
+	New handCount == 194
+TEST 1798: num cards in hand +2: FAILED
+	Original handCount == 132
+	New handCount == 136
+TEST 1799: num cards in hand +2: FAILED
+	Original handCount == 433
+	New handCount == 437
+TEST 1800: num cards in hand +2: FAILED
+	Original handCount == 389
+	New handCount == 393
+TEST 1801: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 1802: num cards in hand +2: FAILED
+	Original handCount == 420
+	New handCount == 424
+TEST 1803: num cards in hand +2: FAILED
+	Original handCount == 249
+	New handCount == 253
+TEST 1804: num cards in hand +2: FAILED
+	Original handCount == 328
+	New handCount == 332
+TEST 1805: num cards in hand +2: FAILED
+	Original handCount == 21
+	New handCount == 25
+TEST 1806: num cards in hand +2: FAILED
+	Original handCount == 111
+	New handCount == 115
+TEST 1807: num cards in hand +2: FAILED
+	Original handCount == 115
+	New handCount == 119
+TEST 1808: num cards in hand +2: FAILED
+	Original handCount == 255
+	New handCount == 259
+TEST 1809: num cards in hand +2: FAILED
+	Original handCount == 307
+	New handCount == 311
+TEST 1810: num cards in hand +2: FAILED
+	Original handCount == 106
+	New handCount == 110
+TEST 1811: num cards in hand +2: FAILED
+	Original handCount == 251
+	New handCount == 255
+TEST 1812: num cards in hand +2: FAILED
+	Original handCount == 154
+	New handCount == 158
+TEST 1813: num cards in hand +2: FAILED
+	Original handCount == 366
+	New handCount == 370
+TEST 1814: num cards in hand +2: FAILED
+	Original handCount == 43
+	New handCount == 47
+TEST 1815: num cards in hand +2: FAILED
+	Original handCount == 129
+	New handCount == 133
+TEST 1816: num cards in hand +2: FAILED
+	Original handCount == 266
+	New handCount == 270
+TEST 1817: num cards in hand +2: FAILED
+	Original handCount == 166
+	New handCount == 170
+TEST 1818: num cards in hand +2: FAILED
+	Original handCount == 72
+	New handCount == 76
+TEST 1819: num cards in hand +2: FAILED
+	Original handCount == 340
+	New handCount == 344
+TEST 1820: num cards in hand +2: FAILED
+	Original handCount == 384
+	New handCount == 388
+TEST 1821: num cards in hand +2: FAILED
+	Original handCount == 143
+	New handCount == 147
+TEST 1822: num cards in hand +2: FAILED
+	Original handCount == 483
+	New handCount == 487
+TEST 1823: num cards in hand +2: FAILED
+	Original handCount == 279
+	New handCount == 283
+TEST 1824: num cards in hand +2: FAILED
+	Original handCount == 166
+	New handCount == 170
+TEST 1825: num cards in hand +2: FAILED
+	Original handCount == 312
+	New handCount == 316
+TEST 1826: num cards in hand +2: FAILED
+	Original handCount == 184
+	New handCount == 188
+TEST 1827: num cards in hand +2: FAILED
+	Original handCount == 236
+	New handCount == 240
+TEST 1828: num cards in hand +2: FAILED
+	Original handCount == 260
+	New handCount == 264
+TEST 1829: num cards in hand +2: FAILED
+	Original handCount == 261
+	New handCount == 265
+TEST 1830: num cards in hand +2: FAILED
+	Original handCount == 221
+	New handCount == 225
+TEST 1831: num cards in hand +2: FAILED
+	Original handCount == 6
+	New handCount == 10
+TEST 1832: num cards in hand +2: FAILED
+	Original handCount == 309
+	New handCount == 313
+TEST 1833: num cards in hand +2: FAILED
+	Original handCount == 166
+	New handCount == 170
+TEST 1834: num cards in hand +2: FAILED
+	Original handCount == 144
+	New handCount == 148
+TEST 1835: num cards in hand +2: FAILED
+	Original handCount == 389
+	New handCount == 393
+TEST 1836: num cards in hand +2: FAILED
+	Original handCount == 42
+	New handCount == 46
+TEST 1837: num cards in hand +2: FAILED
+	Original handCount == 348
+	New handCount == 352
+TEST 1838: num cards in hand +2: FAILED
+	Original handCount == 69
+	New handCount == 73
+TEST 1839: num cards in hand +2: FAILED
+	Original handCount == 203
+	New handCount == 207
+TEST 1840: num cards in hand +2: FAILED
+	Original handCount == 188
+	New handCount == 192
+TEST 1841: num cards in hand +2: FAILED
+	Original handCount == 467
+	New handCount == 471
+TEST 1842: num cards in hand +2: FAILED
+	Original handCount == 289
+	New handCount == 293
+TEST 1843: num cards in hand +2: FAILED
+	Original handCount == 294
+	New handCount == 298
+TEST 1844: num cards in hand +2: FAILED
+	Original handCount == 325
+	New handCount == 329
+TEST 1845: num cards in hand +2: FAILED
+	Original handCount == 19
+	New handCount == 23
+TEST 1846: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 1847: num cards in hand +2: FAILED
+	Original handCount == 429
+	New handCount == 433
+TEST 1848: num cards in hand +2: FAILED
+	Original handCount == 118
+	New handCount == 122
+TEST 1849: num cards in hand +2: FAILED
+	Original handCount == 371
+	New handCount == 375
+TEST 1850: num cards in hand +2: FAILED
+	Original handCount == 206
+	New handCount == 210
+TEST 1851: num cards in hand +2: FAILED
+	Original handCount == 71
+	New handCount == 75
+TEST 1852: num cards in hand +2: FAILED
+	Original handCount == 256
+	New handCount == 260
+TEST 1853: num cards in hand +2: FAILED
+	Original handCount == 325
+	New handCount == 329
+TEST 1854: num cards in hand +2: FAILED
+	Original handCount == 163
+	New handCount == 167
+TEST 1855: num cards in hand +2: FAILED
+	Original handCount == 468
+	New handCount == 472
+TEST 1856: num cards in hand +2: FAILED
+	Original handCount == 245
+	New handCount == 249
+TEST 1857: num cards in hand +2: FAILED
+	Original handCount == 487
+	New handCount == 491
+TEST 1858: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 1859: num cards in hand +2: FAILED
+	Original handCount == 336
+	New handCount == 340
+TEST 1860: num cards in hand +2: FAILED
+	Original handCount == 129
+	New handCount == 133
+TEST 1861: num cards in hand +2: FAILED
+	Original handCount == 268
+	New handCount == 272
+TEST 1862: num cards in hand +2: FAILED
+	Original handCount == 319
+	New handCount == 323
+TEST 1863: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 1864: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 1865: num cards in hand +2: FAILED
+	Original handCount == 280
+	New handCount == 284
+TEST 1866: num cards in hand +2: FAILED
+	Original handCount == 452
+	New handCount == 456
+TEST 1867: num cards in hand +2: FAILED
+	Original handCount == 254
+	New handCount == 258
+TEST 1868: num cards in hand +2: FAILED
+	Original handCount == 158
+	New handCount == 162
+TEST 1869: num cards in hand +2: FAILED
+	Original handCount == 190
+	New handCount == 194
+TEST 1870: num cards in hand +2: FAILED
+	Original handCount == 91
+	New handCount == 95
+TEST 1871: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 1872: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 1873: num cards in hand +2: FAILED
+	Original handCount == 230
+	New handCount == 234
+TEST 1874: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 1875: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 1876: num cards in hand +2: FAILED
+	Original handCount == 90
+	New handCount == 94
+TEST 1877: num cards in hand +2: FAILED
+	Original handCount == 136
+	New handCount == 140
+TEST 1878: num cards in hand +2: FAILED
+	Original handCount == 88
+	New handCount == 92
+TEST 1879: num cards in hand +2: FAILED
+	Original handCount == 330
+	New handCount == 334
+TEST 1880: num cards in hand +2: FAILED
+	Original handCount == 60
+	New handCount == 64
+TEST 1881: num cards in hand +2: FAILED
+	Original handCount == 190
+	New handCount == 194
+TEST 1882: num cards in hand +2: FAILED
+	Original handCount == 67
+	New handCount == 71
+TEST 1883: num cards in hand +2: FAILED
+	Original handCount == 51
+	New handCount == 55
+TEST 1884: num cards in hand +2: FAILED
+	Original handCount == 179
+	New handCount == 183
+TEST 1885: num cards in hand +2: FAILED
+	Original handCount == 396
+	New handCount == 400
+TEST 1886: num cards in hand +2: FAILED
+	Original handCount == 213
+	New handCount == 217
+TEST 1887: num cards in hand +2: FAILED
+	Original handCount == 140
+	New handCount == 144
+TEST 1888: num cards in hand +2: FAILED
+	Original handCount == 58
+	New handCount == 62
+TEST 1889: num cards in hand +2: FAILED
+	Original handCount == 151
+	New handCount == 155
+TEST 1890: num cards in hand +2: FAILED
+	Original handCount == 446
+	New handCount == 450
+TEST 1891: num cards in hand +2: FAILED
+	Original handCount == 488
+	New handCount == 492
+TEST 1892: num cards in hand +2: FAILED
+	Original handCount == 124
+	New handCount == 128
+TEST 1893: num cards in hand +2: FAILED
+	Original handCount == 96
+	New handCount == 100
+TEST 1894: num cards in hand +2: FAILED
+	Original handCount == 110
+	New handCount == 114
+TEST 1895: num cards in hand +2: FAILED
+	Original handCount == 264
+	New handCount == 268
+TEST 1896: num cards in hand +2: FAILED
+	Original handCount == 376
+	New handCount == 380
+TEST 1897: num cards in hand +2: FAILED
+	Original handCount == 319
+	New handCount == 323
+TEST 1898: num cards in hand +2: FAILED
+	Original handCount == 483
+	New handCount == 487
+TEST 1899: num cards in hand +2: FAILED
+	Original handCount == 85
+	New handCount == 89
+TEST 1900: num cards in hand +2: FAILED
+	Original handCount == 377
+	New handCount == 381
+TEST 1901: num cards in hand +2: FAILED
+	Original handCount == 149
+	New handCount == 153
+TEST 1902: num cards in hand +2: FAILED
+	Original handCount == 370
+	New handCount == 374
+TEST 1903: num cards in hand +2: FAILED
+	Original handCount == 476
+	New handCount == 480
+TEST 1904: num cards in hand +2: FAILED
+	Original handCount == 246
+	New handCount == 250
+TEST 1905: num cards in hand +2: FAILED
+	Original handCount == 211
+	New handCount == 215
+TEST 1906: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 1907: num cards in hand +2: FAILED
+	Original handCount == 63
+	New handCount == 67
+TEST 1908: num cards in hand +2: FAILED
+	Original handCount == 100
+	New handCount == 104
+TEST 1909: num cards in hand +2: FAILED
+	Original handCount == 232
+	New handCount == 236
+TEST 1910: num cards in hand +2: FAILED
+	Original handCount == 143
+	New handCount == 147
+TEST 1911: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 1912: num cards in hand +2: FAILED
+	Original handCount == 33
+	New handCount == 37
+TEST 1913: num cards in hand +2: FAILED
+	Original handCount == 399
+	New handCount == 403
+TEST 1914: num cards in hand +2: FAILED
+	Original handCount == 13
+	New handCount == 17
+TEST 1915: num cards in hand +2: FAILED
+	Original handCount == 481
+	New handCount == 485
+TEST 1916: num cards in hand +2: FAILED
+	Original handCount == 129
+	New handCount == 133
+TEST 1917: num cards in hand +2: FAILED
+	Original handCount == 423
+	New handCount == 427
+TEST 1918: num cards in hand +2: FAILED
+	Original handCount == 494
+	New handCount == 498
+TEST 1919: num cards in hand +2: FAILED
+	Original handCount == 333
+	New handCount == 337
+TEST 1920: num cards in hand +2: FAILED
+	Original handCount == 362
+	New handCount == 366
+TEST 1921: num cards in hand +2: FAILED
+	Original handCount == 243
+	New handCount == 247
+TEST 1922: num cards in hand +2: FAILED
+	Original handCount == 295
+	New handCount == 299
+TEST 1923: num cards in hand +2: FAILED
+	Original handCount == 358
+	New handCount == 362
+TEST 1924: num cards in hand +2: FAILED
+	Original handCount == 220
+	New handCount == 224
+TEST 1925: num cards in hand +2: FAILED
+	Original handCount == 493
+	New handCount == 497
+TEST 1926: num cards in hand +2: FAILED
+	Original handCount == 490
+	New handCount == 494
+TEST 1927: num cards in hand +2: FAILED
+	Original handCount == 22
+	New handCount == 26
+TEST 1928: num cards in hand +2: FAILED
+	Original handCount == 335
+	New handCount == 339
+TEST 1929: num cards in hand +2: FAILED
+	Original handCount == 84
+	New handCount == 88
+TEST 1930: num cards in hand +2: FAILED
+	Original handCount == 7
+	New handCount == 11
+TEST 1931: num cards in hand +2: FAILED
+	Original handCount == 374
+	New handCount == 378
+TEST 1932: num cards in hand +2: FAILED
+	Original handCount == 194
+	New handCount == 198
+TEST 1933: num cards in hand +2: FAILED
+	Original handCount == 462
+	New handCount == 466
+TEST 1934: num cards in hand +2: FAILED
+	Original handCount == 118
+	New handCount == 122
+TEST 1935: num cards in hand +2: FAILED
+	Original handCount == 185
+	New handCount == 189
+TEST 1936: num cards in hand +2: FAILED
+	Original handCount == 93
+	New handCount == 97
+TEST 1937: num cards in hand +2: FAILED
+	Original handCount == 157
+	New handCount == 161
+TEST 1938: num cards in hand +2: FAILED
+	Original handCount == 56
+	New handCount == 60
+TEST 1939: num cards in hand +2: FAILED
+	Original handCount == 318
+	New handCount == 322
+TEST 1940: num cards in hand +2: FAILED
+	Original handCount == 70
+	New handCount == 74
+TEST 1941: num cards in hand +2: FAILED
+	Original handCount == 433
+	New handCount == 437
+TEST 1942: num cards in hand +2: FAILED
+	Original handCount == 435
+	New handCount == 439
+TEST 1943: num cards in hand +2: FAILED
+	Original handCount == 164
+	New handCount == 168
+TEST 1944: num cards in hand +2: FAILED
+	Original handCount == 271
+	New handCount == 275
+TEST 1945: num cards in hand +2: FAILED
+	Original handCount == 452
+	New handCount == 456
+TEST 1946: num cards in hand +2: FAILED
+	Original handCount == 336
+	New handCount == 340
+TEST 1947: num cards in hand +2: FAILED
+	Original handCount == 334
+	New handCount == 338
+TEST 1948: num cards in hand +2: FAILED
+	Original handCount == 47
+	New handCount == 51
+TEST 1949: num cards in hand +2: FAILED
+	Original handCount == 362
+	New handCount == 366
+TEST 1950: num cards in hand +2: FAILED
+	Original handCount == 377
+	New handCount == 381
+TEST 1951: num cards in hand +2: FAILED
+	Original handCount == 111
+	New handCount == 115
+TEST 1952: num cards in hand +2: FAILED
+	Original handCount == 9
+	New handCount == 13
+TEST 1953: num cards in hand +2: FAILED
+	Original handCount == 383
+	New handCount == 387
+TEST 1954: num cards in hand +2: FAILED
+	Original handCount == 418
+	New handCount == 422
+TEST 1955: num cards in hand +2: FAILED
+	Original handCount == 177
+	New handCount == 181
+TEST 1956: num cards in hand +2: FAILED
+	Original handCount == 387
+	New handCount == 391
+TEST 1957: num cards in hand +2: FAILED
+	Original handCount == 383
+	New handCount == 387
+TEST 1958: num cards in hand +2: FAILED
+	Original handCount == 297
+	New handCount == 301
+TEST 1959: num cards in hand +2: FAILED
+	Original handCount == 354
+	New handCount == 358
+TEST 1960: num cards in hand +2: FAILED
+	Original handCount == 342
+	New handCount == 346
+TEST 1961: num cards in hand +2: FAILED
+	Original handCount == 116
+	New handCount == 120
+TEST 1962: num cards in hand +2: FAILED
+	Original handCount == 436
+	New handCount == 440
+TEST 1963: num cards in hand +2: FAILED
+	Original handCount == 113
+	New handCount == 117
+TEST 1964: num cards in hand +2: FAILED
+	Original handCount == 116
+	New handCount == 120
+TEST 1965: num cards in hand +2: FAILED
+	Original handCount == 467
+	New handCount == 471
+TEST 1966: num cards in hand +2: FAILED
+	Original handCount == 304
+	New handCount == 308
+TEST 1967: num cards in hand +2: FAILED
+	Original handCount == 173
+	New handCount == 177
+TEST 1968: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 1969: num cards in hand +2: FAILED
+	Original handCount == 73
+	New handCount == 77
+TEST 1970: num cards in hand +2: FAILED
+	Original handCount == 335
+	New handCount == 339
+TEST 1971: num cards in hand +2: FAILED
+	Original handCount == 49
+	New handCount == 53
+TEST 1972: num cards in hand +2: FAILED
+	Original handCount == 312
+	New handCount == 316
+TEST 1973: num cards in hand +2: FAILED
+	Original handCount == 67
+	New handCount == 71
+TEST 1974: num cards in hand +2: FAILED
+	Original handCount == 159
+	New handCount == 163
+TEST 1975: num cards in hand +2: FAILED
+	Original handCount == 26
+	New handCount == 30
+TEST 1976: num cards in hand +2: FAILED
+	Original handCount == 302
+	New handCount == 306
+TEST 1977: num cards in hand +2: FAILED
+	Original handCount == 43
+	New handCount == 47
+TEST 1978: num cards in hand +2: FAILED
+	Original handCount == 328
+	New handCount == 332
+TEST 1979: num cards in hand +2: FAILED
+	Original handCount == 14
+	New handCount == 18
+TEST 1980: num cards in hand +2: FAILED
+	Original handCount == 378
+	New handCount == 382
+TEST 1981: num cards in hand +2: FAILED
+	Original handCount == 404
+	New handCount == 408
+TEST 1982: num cards in hand +2: FAILED
+	Original handCount == 389
+	New handCount == 393
+TEST 1983: num cards in hand +2: FAILED
+	Original handCount == 500
+	New handCount == 504
+TEST 1984: num cards in hand +2: FAILED
+	Original handCount == 350
+	New handCount == 354
+TEST 1985: num cards in hand +2: FAILED
+	Original handCount == 336
+	New handCount == 340
+TEST 1986: num cards in hand +2: FAILED
+	Original handCount == 348
+	New handCount == 352
+TEST 1987: num cards in hand +2: FAILED
+	Original handCount == 150
+	New handCount == 154
+TEST 1988: num cards in hand +2: FAILED
+	Original handCount == 138
+	New handCount == 142
+TEST 1989: num cards in hand +2: FAILED
+	Original handCount == 337
+	New handCount == 341
+TEST 1990: num cards in hand +2: FAILED
+	Original handCount == 268
+	New handCount == 272
+TEST 1991: num cards in hand +2: FAILED
+	Original handCount == 168
+	New handCount == 172
+TEST 1992: num cards in hand +2: FAILED
+	Original handCount == 472
+	New handCount == 476
+TEST 1993: num cards in hand +2: FAILED
+	Original handCount == 118
+	New handCount == 122
+TEST 1994: num cards in hand +2: FAILED
+	Original handCount == 497
+	New handCount == 501
+TEST 1995: num cards in hand +2: FAILED
+	Original handCount == 34
+	New handCount == 38
+TEST 1996: num cards in hand +2: FAILED
+	Original handCount == 323
+	New handCount == 327
+TEST 1997: num cards in hand +2: FAILED
+	Original handCount == 434
+	New handCount == 438
+TEST 1998: num cards in hand +2: FAILED
+	Original handCount == 127
+	New handCount == 131
+TEST 1999: num cards in hand +2: FAILED
+	Original handCount == 123
+	New handCount == 127
+Function 'updateCoins'
+Lines executed:81.82% of 11
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 1
+
+Function 'discardCard'
+Lines executed:84.62% of 13
+Branches executed:100.00% of 6
+Taken at least once:50.00% of 6
+No calls
+
+Function 'cardEffect'
+Lines executed:0.00% of 188
+Branches executed:0.00% of 165
+Taken at least once:0.00% of 165
+Calls executed:0.00% of 52
+
+Function 'playSteward'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+Calls executed:0.00% of 5
+
+Function 'playGreat_hall'
+Lines executed:0.00% of 5
+No branches
+Calls executed:0.00% of 2
+
+Function 'playEmbargo'
+Lines executed:0.00% of 7
+Branches executed:0.00% of 2
+Taken at least once:0.00% of 2
+Calls executed:0.00% of 1
+
+Function 'playMine'
+Lines executed:0.00% of 15
+Branches executed:0.00% of 14
+Taken at least once:0.00% of 14
+Calls executed:0.00% of 5
+
+Function 'playVillage'
+Lines executed:0.00% of 4
+No branches
+Calls executed:0.00% of 1
+
+Function 'playSmithy'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 2
+
+Function 'playAdventurer'
+Lines executed:0.00% of 15
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+Calls executed:0.00% of 2
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'drawCard'
+Lines executed:95.45% of 22
+Branches executed:100.00% of 6
+Taken at least once:83.33% of 6
+Calls executed:100.00% of 1
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+Calls executed:0.00% of 2
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+Calls executed:0.00% of 3
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'whoseTurn'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 3
+No branches
+Calls executed:0.00% of 1
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+No branches
+Calls executed:0.00% of 1
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 4
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
+
+Function 'shuffle'
+Lines executed:93.75% of 16
+Branches executed:100.00% of 8
+Taken at least once:87.50% of 8
+Calls executed:100.00% of 2
+
+Function 'initializeGame'
+Lines executed:85.48% of 62
+Branches executed:100.00% of 46
+Taken at least once:82.61% of 46
+Calls executed:100.00% of 5
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+No branches
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 3
+No branches
+No calls
+
+Function 'compare'
+Lines executed:83.33% of 6
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+No calls
+
+File 'dominion.c'
+Lines executed:21.21% of 561
+Branches executed:19.18% of 417
+Taken at least once:15.35% of 417
+Calls executed:10.42% of 96
+Creating 'dominion.c.gcov'
+

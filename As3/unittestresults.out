@@ -1,0 +1,233 @@
+Results for unit tests:
+unittest1.c:
+***Testing updateCoins()***
+Player 0:
+	Copper is of the correct value: PASSED
+	Bonus points work with copper: PASSED
+	Silver is of the correct value: PASSED
+	Bonus points work with silver: PASSED
+	Gold is of the correct value: PASSED
+	Bonus points work with gold: PASSED
+Player 1:
+	Copper is of the correct value: PASSED
+	Bonus points work with copper: PASSED
+	Silver is of the correct value: PASSED
+	Bonus points work with silver: PASSED
+	Gold is of the correct value: PASSED
+	Bonus points work with gold: PASSED
+***End of updateCoins() Tests***
+File 'dominion.c'
+Lines executed:16.22% of 561
+Branches executed:15.83% of 417
+Taken at least once:13.43% of 417
+Calls executed:7.29% of 96
+Creating 'dominion.c.gcov'
+
+unittest2.c:
+***Testing gainCard()***
+Player 0:
+(toFlag, the 3rd parameter of gainCard is now 0)
+	Returns failure for invalid card: FAILED
+	Works for all cards in game: FAILED
+	Doesn't allow entry for cards that don't exist: FAILED
+	Functions after multiple calls: PASSED
+	Player Discard count is correct: PASSED
+(toFlag, the 3rd parameter of gainCard is now 1)
+	Returns failure for invalid card: FAILED
+	Works for all cards in game: FAILED
+	Doesn't allow entry for cards that don't exist: FAILED
+	Functions after multiple calls: PASSED
+	Player Deck count is correct: PASSED
+(toFlag, the 3rd parameter of gainCard is now 2)
+	Returns failure for invalid card: FAILED
+	Works for all cards in game: FAILED
+	Doesn't allow entry for cards that don't exist: FAILED
+	Functions after multiple calls: PASSED
+	Player Hand count is correct: PASSED
+Player 1:
+(toFlag, the 3rd parameter of gainCard is now 0)
+	Returns failure for invalid card: FAILED
+	Works for all cards in game: FAILED
+	Doesn't allow entry for cards that don't exist: FAILED
+	Functions after multiple calls: PASSED
+	Player Discard count is correct: PASSED
+(toFlag, the 3rd parameter of gainCard is now 1)
+	Returns failure for invalid card: FAILED
+	Works for all cards in game: FAILED
+	Doesn't allow entry for cards that don't exist: FAILED
+	Functions after multiple calls: PASSED
+	Player Deck count is correct: PASSED
+(toFlag, the 3rd parameter of gainCard is now 2)
+	Returns failure for invalid card: FAILED
+	Works for all cards in game: FAILED
+	Doesn't allow entry for cards that don't exist: FAILED
+	Functions after multiple calls: PASSED
+	Player Hand count is correct: PASSED
+***End of gainCard() Tests***
+File 'dominion.c'
+Lines executed:18.54% of 561
+Branches executed:17.27% of 417
+Taken at least once:14.39% of 417
+Calls executed:8.33% of 96
+Creating 'dominion.c.gcov'
+
+unittest3.c:
+***Testing drawCard()***
+Player 0:
+	Player draws a card into their hand: PASSED
+	Player deck decremented: PASSED
+	Other player info unchanged: PASSED
+(Similar tests, now with empty player deck)
+	Player draws a card into their hand: FAILED
+	Player deck shuffles in discards, then loses one: FAILED
+	Other player info unchanged: PASSED
+	Player unable to draw with empty deck/discard pile: PASSED
+Player 1:
+	Player draws a card into their hand: PASSED
+	Player deck decremented: PASSED
+	Other player info unchanged: PASSED
+(Similar tests, now with empty player deck)
+	Player draws a card into their hand: FAILED
+	Player deck shuffles in discards, then loses one: FAILED
+	Other player info unchanged: PASSED
+	Player unable to draw with empty deck/discard pile: PASSED
+***End of drawCard() Tests***
+File 'dominion.c'
+Lines executed:19.79% of 561
+Branches executed:18.23% of 417
+Taken at least once:14.87% of 417
+Calls executed:8.33% of 96
+Creating 'dominion.c.gcov'
+
+unittest4.c:
+***Testing isGameOver()***
+	Initial game setup does not end game: PASSED
+	Game ends when province cards run out: PASSED
+	Game doesn't end when 1 supply pile is out: PASSED
+	Game doesn't end when 2 supply piles are out: PASSED
+	Game ends when there are 3 supply piles out: FAILED
+		G.supplyCount[village] == 0
+		G.supplyCount[smithy] == 0
+		G.supplyCount[adventurer] == 0
+
+	Game ends when there are more than 3 supply piles out: FAILED
+		G.supplyCount[village] == 0
+		G.supplyCount[smithy] == 0
+		G.supplyCount[adventurer] == 0
+		G.supplyCount[mine] == 0
+***End of isGameOver() Tests***
+File 'dominion.c'
+Lines executed:17.47% of 561
+Branches executed:17.75% of 417
+Taken at least once:14.63% of 417
+Calls executed:7.29% of 96
+Creating 'dominion.c.gcov'
+
+cardtest1.c:
+***Testing Smithy card***
+Player 0:
+	Player receives exactly 3 cards into their hand: FAILED
+		Initial handCount == 5
+		handCount after Smithy == 9
+	Player loses 3 cards from deck: FAILED
+		Initial deckCount == 5
+		deckCount after Smithy == 0
+	Other player cards unaffected: PASSED
+	No state change occurs in victory or supply piles: PASSED
+Player 1:
+	Player receives exactly 3 cards into their hand: FAILED
+		Initial handCount == 0
+		handCount after Smithy == 4
+	Player loses 3 cards from deck: FAILED
+		Initial deckCount == 10
+		deckCount after Smithy == 5
+	Other player cards unaffected: PASSED
+	No state change occurs in victory or supply piles: PASSED
+***End of Smithy card Tests***
+File 'dominion.c'
+Lines executed:20.86% of 561
+Branches executed:23.26% of 417
+Taken at least once:14.87% of 417
+Calls executed:11.46% of 96
+Creating 'dominion.c.gcov'
+
+cardtest2.c:
+***Testing Adventurer card***
+Player 0:
+	Player has exactly 2 extra cards in hand: PASSED
+	Player has at least 2 more coins than previously: FAILED
+		Initial coins == 4
+		Post Adventurer coins == 5
+	Player loses one action point: PASSED
+	Other player cards unaffected: PASSED
+	No state change occurs in victory or supply piles: PASSED
+	Game doesn't crash if player has less than 2 treasure cards in deck: FAILED
+Player 1:
+	Player has exactly 2 extra cards in hand: PASSED
+	Player has at least 2 more coins than previously: FAILED
+		Initial coins == 4
+		Post Adventurer coins == 2
+	Player loses one action point: PASSED
+	Other player cards unaffected: PASSED
+	No state change occurs in victory or supply piles: PASSED
+	Game doesn't crash if player has less than 2 treasure cards in deck: FAILED
+***End of Adventurer card Tests***
+File 'dominion.c'
+Lines executed:21.93% of 561
+Branches executed:25.66% of 417
+Taken at least once:16.07% of 417
+Calls executed:14.58% of 96
+Creating 'dominion.c.gcov'
+
+cardtest3.c:
+***Testing Village card***
+Player 0:
+	Player has +1 card: PASSED
+	Player gained +1 Actions: PASSED
+	Village card removed from player hand: FAILED
+		Note: Village card == 14
+		Player hand is:
+			14, 4, 1, 4, 4, 4, 
+	Other player cards unaffected: PASSED
+	No state change occurs in victory or supply piles: PASSED
+Player 1:
+	Player has +1 card: PASSED
+	Player gained +1 Actions: PASSED
+	Village card removed from player hand: PASSED
+	Other player cards unaffected: PASSED
+	No state change occurs in victory or supply piles: PASSED
+***End of Village card Tests***
+File 'dominion.c'
+Lines executed:21.03% of 561
+Branches executed:23.74% of 417
+Taken at least once:14.87% of 417
+Calls executed:14.58% of 96
+Creating 'dominion.c.gcov'
+
+cardtest4.c:
+***Testing Mine card***
+Player 0:
+	Player gained additional coins and new card: FAILED
+		Initial coins == 4
+		Post mine coins == 4
+		Note: Mine card == 11
+		Hand before mine is:
+			11, 4, 4, 4, 4, 
+		Hand after mine is:
+			11, 4, 4, 4, 4, 
+	Other player cards unaffected: PASSED
+	No state change occurs in non-Treasure supply piles: PASSED
+Player 1:
+	Player gained additional coins and new card: FAILED
+		Initial coins == 4
+		Post mine coins == 4
+	Other player cards unaffected: PASSED
+	No state change occurs in non-Treasure supply piles: PASSED
+***End of Mine card Tests***
+File 'dominion.c'
+Lines executed:20.68% of 561
+Branches executed:24.70% of 417
+Taken at least once:15.35% of 417
+Calls executed:12.50% of 96
+Creating 'dominion.c.gcov'
+
